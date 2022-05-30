@@ -1,0 +1,1093 @@
+{
+    "😀": {
+        "body": "😀",
+        "prefix": [
+            ":grinning:"
+        ],
+        "description": "Smileys & Emotion - Face Smiling"
+    },
+    "😃": {
+        "body": "😃",
+        "prefix": [
+            ":smiley:"
+        ],
+        "description": "Smileys & Emotion - Face Smiling"
+    },
+    "😄": {
+        "body": "😄",
+        "prefix": [
+            ":smile:"
+        ],
+        "description": "Smileys & Emotion - Face Smiling"
+    },
+    "😁": {
+        "body": "😁",
+        "prefix": [
+            ":grin:"
+        ],
+        "description": "Smileys & Emotion - Face Smiling"
+    },
+    "😆": {
+        "body": "😆",
+        "prefix": [
+            ":laughing:",
+            ":satisfied:"
+        ],
+        "description": "Smileys & Emotion - Face Smiling"
+    },
+    "😅": {
+        "body": "😅",
+        "prefix": [
+            ":sweat_smile:"
+        ],
+        "description": "Smileys & Emotion - Face Smiling"
+    },
+    "🤣": {
+        "body": "🤣",
+        "prefix": [
+            ":rofl:"
+        ],
+        "description": "Smileys & Emotion - Face Smiling"
+    },
+    "😂": {
+        "body": "😂",
+        "prefix": [
+            ":joy:"
+        ],
+        "description": "Smileys & Emotion - Face Smiling"
+    },
+    "🙂": {
+        "body": "🙂",
+        "prefix": [
+            ":slightly_smiling_face:"
+        ],
+        "description": "Smileys & Emotion - Face Smiling"
+    },
+    "🙃": {
+        "body": "🙃",
+        "prefix": [
+            ":upside_down_face:"
+        ],
+        "description": "Smileys & Emotion - Face Smiling"
+    },
+    "😉": {
+        "body": "😉",
+        "prefix": [
+            ":wink:"
+        ],
+        "description": "Smileys & Emotion - Face Smiling"
+    },
+    "😊": {
+        "body": "😊",
+        "prefix": [
+            ":blush:"
+        ],
+        "description": "Smileys & Emotion - Face Smiling"
+    },
+    "😇": {
+        "body": "😇",
+        "prefix": [
+            ":innocent:"
+        ],
+        "description": "Smileys & Emotion - Face Smiling"
+    },
+    "🥰": {
+        "body": "🥰",
+        "prefix": [
+            ":smiling_face_with_three_hearts:"
+        ],
+        "description": "Smileys & Emotion - Face Affection"
+    },
+    "😍": {
+        "body": "😍",
+        "prefix": [
+            ":heart_eyes:"
+        ],
+        "description": "Smileys & Emotion - Face Affection"
+    },
+    "🤩": {
+        "body": "🤩",
+        "prefix": [
+            ":star_struck:"
+        ],
+        "description": "Smileys & Emotion - Face Affection"
+    },
+    "😘": {
+        "body": "😘",
+        "prefix": [
+            ":kissing_heart:"
+        ],
+        "description": "Smileys & Emotion - Face Affection"
+    },
+    "😗": {
+        "body": "😗",
+        "prefix": [
+            ":kissing:"
+        ],
+        "description": "Smileys & Emotion - Face Affection"
+    },
+    "😚": {
+        "body": "😚",
+        "prefix": [
+            ":kissing_closed_eyes:"
+        ],
+        "description": "Smileys & Emotion - Face Affection"
+    },
+    "😙": {
+        "body": "😙",
+        "prefix": [
+            ":kissing_smiling_eyes:"
+        ],
+        "description": "Smileys & Emotion - Face Affection"
+    },
+    "🥲": {
+        "body": "🥲",
+        "prefix": [
+            ":smiling_face_with_tear:"
+        ],
+        "description": "Smileys & Emotion - Face Affection"
+    },
+    "😋": {
+        "body": "😋",
+        "prefix": [
+            ":yum:"
+        ],
+        "description": "Smileys & Emotion - Face Tongue"
+    },
+    "😛": {
+        "body": "😛",
+        "prefix": [
+            ":stuck_out_tongue:"
+        ],
+        "description": "Smileys & Emotion - Face Tongue"
+    },
+    "😜": {
+        "body": "😜",
+        "prefix": [
+            ":stuck_out_tongue_winking_eye:"
+        ],
+        "description": "Smileys & Emotion - Face Tongue"
+    },
+    "🤪": {
+        "body": "🤪",
+        "prefix": [
+            ":zany_face:"
+        ],
+        "description": "Smileys & Emotion - Face Tongue"
+    },
+    "😝": {
+        "body": "😝",
+        "prefix": [
+            ":stuck_out_tongue_closed_eyes:"
+        ],
+        "description": "Smileys & Emotion - Face Tongue"
+    },
+    "🤑": {
+        "body": "🤑",
+        "prefix": [
+            ":money_mouth_face:"
+        ],
+        "description": "Smileys & Emotion - Face Tongue"
+    },
+    "🤗": {
+        "body": "🤗",
+        "prefix": [
+            ":hugs:"
+        ],
+        "description": "Smileys & Emotion - Face Hand"
+    },
+    "🤭": {
+        "body": "🤭",
+        "prefix": [
+            ":hand_over_mouth:"
+        ],
+        "description": "Smileys & Emotion - Face Hand"
+    },
+    "🤫": {
+        "body": "🤫",
+        "prefix": [
+            ":shushing_face:"
+        ],
+        "description": "Smileys & Emotion - Face Hand"
+    },
+    "🤔": {
+        "body": "🤔",
+        "prefix": [
+            ":thinking:"
+        ],
+        "description": "Smileys & Emotion - Face Hand"
+    },
+    "🤐": {
+        "body": "🤐",
+        "prefix": [
+            ":zipper_mouth_face:"
+        ],
+        "description": "Smileys & Emotion - Face Neutral Skeptical"
+    },
+    "🤨": {
+        "body": "🤨",
+        "prefix": [
+            ":raised_eyebrow:"
+        ],
+        "description": "Smileys & Emotion - Face Neutral Skeptical"
+    },
+    "😐": {
+        "body": "😐",
+        "prefix": [
+            ":neutral_face:"
+        ],
+        "description": "Smileys & Emotion - Face Neutral Skeptical"
+    },
+    "😑": {
+        "body": "😑",
+        "prefix": [
+            ":expressionless:"
+        ],
+        "description": "Smileys & Emotion - Face Neutral Skeptical"
+    },
+    "😶": {
+        "body": "😶",
+        "prefix": [
+            ":no_mouth:"
+        ],
+        "description": "Smileys & Emotion - Face Neutral Skeptical"
+    },
+    "😶‍🌫️": {
+        "body": "😶‍🌫️",
+        "prefix": [
+            ":face_in_clouds:"
+        ],
+        "description": "Smileys & Emotion - Face Neutral Skeptical"
+    },
+    "😏": {
+        "body": "😏",
+        "prefix": [
+            ":smirk:"
+        ],
+        "description": "Smileys & Emotion - Face Neutral Skeptical"
+    },
+    "😒": {
+        "body": "😒",
+        "prefix": [
+            ":unamused:"
+        ],
+        "description": "Smileys & Emotion - Face Neutral Skeptical"
+    },
+    "🙄": {
+        "body": "🙄",
+        "prefix": [
+            ":roll_eyes:"
+        ],
+        "description": "Smileys & Emotion - Face Neutral Skeptical"
+    },
+    "😬": {
+        "body": "😬",
+        "prefix": [
+            ":grimacing:"
+        ],
+        "description": "Smileys & Emotion - Face Neutral Skeptical"
+    },
+    "😮‍💨": {
+        "body": "😮‍💨",
+        "prefix": [
+            ":face_exhaling:"
+        ],
+        "description": "Smileys & Emotion - Face Neutral Skeptical"
+    },
+    "🤥": {
+        "body": "🤥",
+        "prefix": [
+            ":lying_face:"
+        ],
+        "description": "Smileys & Emotion - Face Neutral Skeptical"
+    },
+    // Smileys & Emotion - Face Sleepy
+    "😌": {
+        "body": "😌",
+        "prefix": [
+            ":relieved:"
+        ],
+        "description": "Smileys & Emotion - Face Sleepy"
+    },
+    "😔": {
+        "body": "😔",
+        "prefix": [
+            ":pensive:"
+        ],
+        "description": "Smileys & Emotion - Face Sleepy"
+    },
+    "😪": {
+        "body": "😪",
+        "prefix": [
+            ":sleepy:"
+        ],
+        "description": "Smileys & Emotion - Face Sleepy"
+    },
+    "🤤": {
+        "body": "🤤",
+        "prefix": [
+            ":drooling_face:"
+        ],
+        "description": "Smileys & Emotion - Face Sleepy"
+    },
+    "😴": {
+        "body": "😴",
+        "prefix": [
+            ":sleeping:"
+        ],
+        "description": "Smileys & Emotion - Face Sleepy"
+    },
+    "😷": {
+        "body": "😷",
+        "prefix": [
+            ":mask:"
+        ],
+        "description": "Smileys & Emotion - Face Unwell"
+    },
+    "🤒": {
+        "body": "🤒",
+        "prefix": [
+            ":face_with_thermometer:"
+        ],
+        "description": "Smileys & Emotion - Face Unwell"
+    },
+    "🤕": {
+        "body": "🤕",
+        "prefix": [
+            ":face_with_head_bandage:"
+        ],
+        "description": "Smileys & Emotion - Face Unwell"
+    },
+    "🤢": {
+        "body": "🤢",
+        "prefix": [
+            ":nauseated_face:"
+        ],
+        "description": "Smileys & Emotion - Face Unwell"
+    },
+    "🤮": {
+        "body": "🤮",
+        "prefix": [
+            ":vomiting_face:"
+        ],
+        "description": "Smileys & Emotion - Face Unwell"
+    },
+    "🤧": {
+        "body": "🤧",
+        "prefix": [
+            ":sneezing_face:"
+        ],
+        "description": "Smileys & Emotion - Face Unwell"
+    },
+    "🥵": {
+        "body": "🥵",
+        "prefix": [
+            ":hot_face:"
+        ],
+        "description": "Smileys & Emotion - Face Unwell"
+    },
+    "🥶": {
+        "body": "🥶",
+        "prefix": [
+            ":cold_face:"
+        ],
+        "description": "Smileys & Emotion - Face Unwell"
+    },
+    "🥴": {
+        "body": "🥴",
+        "prefix": [
+            ":woozy_face:"
+        ],
+        "description": "Smileys & Emotion - Face Unwell"
+    },
+    "😵": {
+        "body": "😵",
+        "prefix": [
+            ":dizzy_face:"
+        ],
+        "description": "Smileys & Emotion - Face Unwell"
+    },
+    "😵‍💫": {
+        "body": "😵‍💫",
+        "prefix": [
+            ":face_with_spiral_eyes:"
+        ],
+        "description": "Smileys & Emotion - Face Unwell"
+    },
+    "🤯": {
+        "body": "🤯",
+        "prefix": [
+            ":exploding_head:"
+        ],
+        "description": "Smileys & Emotion - Face Unwell"
+    },
+    "🤠": {
+        "body": "🤠",
+        "prefix": [
+            ":cowboy_hat_face:"
+        ],
+        "description": "Smileys & Emotion - Face Hat"
+    },
+    "🥳": {
+        "body": "🥳",
+        "prefix": [
+            ":partying_face:"
+        ],
+        "description": "Smileys & Emotion - Face Hat"
+    },
+    "🥸": {
+        "body": "🥸",
+        "prefix": [
+            ":disguised_face:"
+        ],
+        "description": "Smileys & Emotion - Face Hat"
+    },
+    "😎": {
+        "body": "😎",
+        "prefix": [
+            ":sunglasses:"
+        ],
+        "description": "Smileys & Emotion - Face Glasses"
+    },
+    "🤓": {
+        "body": "🤓",
+        "prefix": [
+            ":nerd_face:"
+        ],
+        "description": "Smileys & Emotion - Face Glasses"
+    },
+    "🧐": {
+        "body": "🧐",
+        "prefix": [
+            ":monocle_face:"
+        ],
+        "description": "Smileys & Emotion - Face Glasses"
+    },
+    "😕": {
+        "body": "😕",
+        "prefix": [
+            ":confused:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😟": {
+        "body": "😟",
+        "prefix": [
+            ":worried:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "🙁": {
+        "body": "🙁",
+        "prefix": [
+            ":slightly_frowning_face:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "☹️": {
+        "body": "☹️",
+        "prefix": [
+            ":frowning_face:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😮": {
+        "body": "😮",
+        "prefix": [
+            ":open_mouth:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😯": {
+        "body": "😯",
+        "prefix": [
+            ":hushed:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😲": {
+        "body": "😲",
+        "prefix": [
+            ":astonished:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😳": {
+        "body": "😳",
+        "prefix": [
+            ":flushed:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "🥺": {
+        "body": "🥺",
+        "prefix": [
+            ":pleading_face:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😦": {
+        "body": "😦",
+        "prefix": [
+            ":frowning:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😧": {
+        "body": "😧",
+        "prefix": [
+            ":anguished:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😨": {
+        "body": "😨",
+        "prefix": [
+            ":fearful:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😰": {
+        "body": "😰",
+        "prefix": [
+            ":cold_sweat:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😥": {
+        "body": "😥",
+        "prefix": [
+            ":disappointed_relieved:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😢": {
+        "body": "😢",
+        "prefix": [
+            ":cry:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😭": {
+        "body": "😭",
+        "prefix": [
+            ":sob:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😱": {
+        "body": "😱",
+        "prefix": [
+            ":scream:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😖": {
+        "body": "😖",
+        "prefix": [
+            ":confounded:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😣": {
+        "body": "😣",
+        "prefix": [
+            ":persevere:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😞": {
+        "body": "😞",
+        "prefix": [
+            ":disappointed:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😓": {
+        "body": "😓",
+        "prefix": [
+            ":sweat:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😩": {
+        "body": "😩",
+        "prefix": [
+            ":weary:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😫": {
+        "body": "😫",
+        "prefix": [
+            ":tired_face:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "🥱": {
+        "body": "🥱",
+        "prefix": [
+            ":yawning_face:"
+        ],
+        "description": "Smileys & Emotion - Face Concerned"
+    },
+    "😤": {
+        "body": "😤",
+        "prefix": [
+            ":triumph:"
+        ],
+        "description": "Smileys & Emotion - Face Negative"
+    },
+    "😡": {
+        "body": "😡",
+        "prefix": [
+            ":pout:",
+            ":rage:"
+        ],
+        "description": "Smileys & Emotion - Face Negative"
+    },
+    "😠": {
+        "body": "😠",
+        "prefix": [
+            ":angry:"
+        ],
+        "description": "Smileys & Emotion - Face Negative"
+    },
+    "🤬": {
+        "body": "🤬",
+        "prefix": [
+            ":cursing_face:"
+        ],
+        "description": "Smileys & Emotion - Face Negative"
+    },
+    "😈": {
+        "body": "😈",
+        "prefix": [
+            ":smiling_imp:"
+        ],
+        "description": "Smileys & Emotion - Face Negative"
+    },
+    "👿": {
+        "body": "👿",
+        "prefix": [
+            ":imp:"
+        ],
+        "description": "Smileys & Emotion - Face Negative"
+    },
+    "💀": {
+        "body": "💀",
+        "prefix": [
+            ":skull:"
+        ],
+        "description": "Smileys & Emotion - Face Negative"
+    },
+    "☠️": {
+        "body": "☠️",
+        "prefix": [
+            ":skull_and_crossbones:"
+        ],
+        "description": "Smileys & Emotion - Face Negative"
+    },
+    "💩": {
+        "body": "💩",
+        "prefix": [
+            ":hankey:",
+            ":poop:",
+            ":shit:",
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "🤡": {
+        "body": "🤡",
+        "prefix": [
+            ":clown_face:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "👹": {
+        "body": "👹",
+        "prefix": [
+            ":japanese_ogre:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "👺": {
+        "body": "👺",
+        "prefix": [
+            ":japanese_goblin:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "👻": {
+        "body": "👻",
+        "prefix": [
+            ":ghost:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "👽": {
+        "body": "👽",
+        "prefix": [
+            ":alien:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "👾": {
+        "body": "👾",
+        "prefix": [
+            ":space_invader:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "🤖": {
+        "body": "🤖",
+        "prefix": [
+            ":robot:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "😺": {
+        "body": "😺",
+        "prefix": [
+            ":smiley_cat:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "😸": {
+        "body": "😸",
+        "prefix": [
+            ":smile_cat:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "😹": {
+        "body": "😹",
+        "prefix": [
+            ":joy_cat:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "😻": {
+        "body": "😻",
+        "prefix": [
+            ":heart_eyes_cat:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "😼": {
+        "body": "😼",
+        "prefix": [
+            ":smirk_cat:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "😽": {
+        "body": "😽",
+        "prefix": [
+            ":kissing_cat:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "🙀": {
+        "body": "🙀",
+        "prefix": [
+            ":scream_cat:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "😿": {
+        "body": "😿",
+        "prefix": [
+            ":crying_cat_face:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "😾": {
+        "body": "😾",
+        "prefix": [
+            ":pouting_cat:"
+        ],
+        "description": "Smileys & Emotion - Face Costume"
+    },
+    "🙈": {
+        "body": "🙈",
+        "prefix": [
+            ":see_no_evil:"
+        ],
+        "description": "Smileys & Emotion - Monkey Face"
+    },
+    "🙉": {
+        "body": "🙉",
+        "prefix": [
+            ":hear_no_evil:"
+        ],
+        "description": "Smileys & Emotion - Monkey Face"
+    },
+    "🙊": {
+        "body": "🙊",
+        "prefix": [
+            ":speak_no_evil:"
+        ],
+        "description": "Smileys & Emotion - Monkey Face"
+    },
+    "💋": {
+        "body": "💋",
+        "prefix": [
+            ":kiss:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💌": {
+        "body": "💌",
+        "prefix": [
+            ":love_letter:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💘": {
+        "body": "💘",
+        "prefix": [
+            ":cupid:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💝": {
+        "body": "💝",
+        "prefix": [
+            ":gift_heart:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💖": {
+        "body": "💖",
+        "prefix": [
+            ":sparkling_heart:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💗": {
+        "body": "💗",
+        "prefix": [
+            ":heartpulse:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💓": {
+        "body": "💓",
+        "prefix": [
+            ":heartbeat:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💞": {
+        "body": "💞",
+        "prefix": [
+            ":revolving_hearts:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💕": {
+        "body": "💕",
+        "prefix": [
+            ":two_hearts:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💟": {
+        "body": "💟",
+        "prefix": [
+            ":heart_decoration:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "❣️": {
+        "body": "❣️",
+        "prefix": [
+            ":heavy_heart_exclamation:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💔": {
+        "body": "💔",
+        "prefix": [
+            ":broken_heart:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "❤️‍🔥": {
+        "body": "❤️‍🔥",
+        "prefix": [
+            ":heart_on_fire:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "❤️‍🩹": {
+        "body": "❤️‍🩹",
+        "prefix": [
+            ":mending_heart:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "❤️": {
+        "body": "❤️",
+        "prefix": [
+            ":heart:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "🧡": {
+        "body": "🧡",
+        "prefix": [
+            ":orange_heart:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💛": {
+        "body": "💛",
+        "prefix": [
+            ":yellow_heart:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💚": {
+        "body": "💚",
+        "prefix": [
+            ":green_heart:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💙": {
+        "body": "💙",
+        "prefix": [
+            ":blue_heart:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💜": {
+        "body": "💜",
+        "prefix": [
+            ":purple_heart:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "🤎": {
+        "body": "🤎",
+        "prefix": [
+            ":brown_heart:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "🖤": {
+        "body": "🖤",
+        "prefix": [
+            ":black_heart:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "🤍": {
+        "body": "🤍",
+        "prefix": [
+            ":white_heart:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💯": {
+        "body": "💯",
+        "prefix": [
+            ":100:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💢": {
+        "body": "💢",
+        "prefix": [
+            ":anger:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💥": {
+        "body": "💥",
+        "prefix": [
+            ":boom:",
+            ":collision:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💫": {
+        "body": "💫",
+        "prefix": [
+            ":dizzy:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💦": {
+        "body": "💦",
+        "prefix": [
+            ":sweat_drops:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💨": {
+        "body": "💨",
+        "prefix": [
+            ":dash:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "🕳️": {
+        "body": "🕳️",
+        "prefix": [
+            ":hole:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💣": {
+        "body": "💣",
+        "prefix": [
+            ":bomb:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💬": {
+        "body": "💬",
+        "prefix": [
+            ":speech_balloon:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "👁️‍🗨️": {
+        "body": "👁️‍🗨️",
+        "prefix": [
+            ":eye_speech_bubble:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "🗨️": {
+        "body": "🗨️",
+        "prefix": [
+            ":left_speech_bubble:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "🗯️": {
+        "body": "🗯️",
+        "prefix": [
+            ":right_anger_bubble:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💭": {
+        "body": "💭",
+        "prefix": [
+            ":thought_balloon:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+    "💤": {
+        "body": "💤",
+        "prefix": [
+            ":zzz:"
+        ],
+        "description": "Smileys & Emotion - Emotion"
+    },
+}

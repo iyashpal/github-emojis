@@ -1,0 +1,242 @@
+{
+    "🍇": {
+        "body": "🍇",
+        "prefix": [
+            ":grapes:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🍈": {
+        "body": "🍈",
+        "prefix": [
+            ":melon:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🍉": {
+        "body": "🍉",
+        "prefix": [
+            ":watermelon:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🍊": {
+        "body": "🍊",
+        "prefix": [
+            ":mandarin:",
+            ":orange:",
+            ":tangerine:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🍋": {
+        "body": "🍋",
+        "prefix": [
+            ":lemon:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🍌": {
+        "body": "🍌",
+        "prefix": [
+            ":banana:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🍍": {
+        "body": "🍍",
+        "prefix": [
+            ":pineapple:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🥭": {
+        "body": "🥭",
+        "prefix": [
+            ":mango:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🍎": {
+        "body": "🍎",
+        "prefix": [
+            ":apple:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🍏": {
+        "body": "🍏",
+        "prefix": [
+            ":green_apple:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🍐": {
+        "body": "🍐",
+        "prefix": [
+            ":pear:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🍑": {
+        "body": "🍑",
+        "prefix": [
+            ":peach:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🍒": {
+        "body": "🍒",
+        "prefix": [
+            ":cherries:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🍓": {
+        "body": "🍓",
+        "prefix": [
+            ":strawberry:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🫐": {
+        "body": "🫐",
+        "prefix": [
+            ":blueberries:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🥝": {
+        "body": "🥝",
+        "prefix": [
+            ":kiwi_fruit:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🍅": {
+        "body": "🍅",
+        "prefix": [
+            ":tomato:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🫒": {
+        "body": "🫒",
+        "prefix": [
+            ":olive:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🥥": {
+        "body": "🥥",
+        "prefix": [
+            ":coconut:",
+        ],
+        "description": "Food & Drink - Food Fruit"
+    },
+    "🥑": {
+        "body": "🥑",
+        "prefix": [
+            ":avocado:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🍆": {
+        "body": "🍆",
+        "prefix": [
+            ":eggplant:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🥔": {
+        "body": "🥔",
+        "prefix": [
+            ":potato:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🥕": {
+        "body": "🥕",
+        "prefix": [
+            ":carrot:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🌽": {
+        "body": "🌽",
+        "prefix": [
+            ":corn:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🌶️": {
+        "body": "🌶️",
+        "prefix": [
+            ":hot_pepper:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🫑": {
+        "body": "🫑",
+        "prefix": [
+            ":bell_pepper:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🥒": {
+        "body": "🥒",
+        "prefix": [
+            ":cucumber:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🥬": {
+        "body": "🥬",
+        "prefix": [
+            ":leafy_green:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🥦": {
+        "body": "🥦",
+        "prefix": [
+            ":broccoli:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🧄": {
+        "body": "🧄",
+        "prefix": [
+            ":garlic:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🧅": {
+        "body": "🧅",
+        "prefix": [
+            ":onion:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🍄": {
+        "body": "🍄",
+        "prefix": [
+            ":mushroom:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🥜": {
+        "body": "🥜",
+        "prefix": [
+            ":peanuts:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+    "🌰": {
+        "body": "🌰",
+        "prefix": [
+            ":chestnut:",
+        ],
+        "description": "Food & Drink - Food Vegetable"
+    },
+}

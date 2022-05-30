@@ -1,0 +1,985 @@
+{
+    "🐵": {
+        "body": "🐵",
+        "prefix": [
+            ":monkey_face:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐒": {
+        "body": "🐒",
+        "prefix": [
+            ":monkey:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦍": {
+        "body": "🦍",
+        "prefix": [
+            ":gorilla:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦧": {
+        "body": "🦧",
+        "prefix": [
+            ":orangutan:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐶": {
+        "body": "🐶",
+        "prefix": [
+            ":dog:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐕": {
+        "body": "🐕",
+        "prefix": [
+            ":dog2:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦮": {
+        "body": "🦮",
+        "prefix": [
+            ":guide_dog:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐕‍🦺": {
+        "body": "🐕‍🦺",
+        "prefix": [
+            ":service_dog:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐩": {
+        "body": "🐩",
+        "prefix": [
+            ":poodle:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐺": {
+        "body": "🐺",
+        "prefix": [
+            ":wolf:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦊": {
+        "body": "🦊",
+        "prefix": [
+            ":fox_face:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦝": {
+        "body": "🦝",
+        "prefix": [
+            ":raccoon:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐱": {
+        "body": "🐱",
+        "prefix": [
+            ":cat:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐈": {
+        "body": "🐈",
+        "prefix": [
+            ":cat2:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐈‍⬛": {
+        "body": "🐈‍⬛",
+        "prefix": [
+            ":black_cat:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦁": {
+        "body": "🦁",
+        "prefix": [
+            ":lion:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐯": {
+        "body": "🐯",
+        "prefix": [
+            ":tiger:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐅": {
+        "body": "🐅",
+        "prefix": [
+            ":tiger2:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐆": {
+        "body": "🐆",
+        "prefix": [
+            ":leopard:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐴": {
+        "body": "🐴",
+        "prefix": [
+            ":horse:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐎": {
+        "body": "🐎",
+        "prefix": [
+            ":racehorse:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦄": {
+        "body": "🦄",
+        "prefix": [
+            ":unicorn:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦓": {
+        "body": "🦓",
+        "prefix": [
+            ":zebra:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦌": {
+        "body": "🦌",
+        "prefix": [
+            ":deer:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦬": {
+        "body": "🦬",
+        "prefix": [
+            ":bison:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐮": {
+        "body": "🐮",
+        "prefix": [
+            ":cow:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐂": {
+        "body": "🐂",
+        "prefix": [
+            ":ox:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐃": {
+        "body": "🐃",
+        "prefix": [
+            ":water_buffalo:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐄": {
+        "body": "🐄",
+        "prefix": [
+            ":cow2:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐷": {
+        "body": "🐷",
+        "prefix": [
+            ":pig:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐖": {
+        "body": "🐖",
+        "prefix": [
+            ":pig2:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐗": {
+        "body": "🐗",
+        "prefix": [
+            ":boar:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐽": {
+        "body": "🐽",
+        "prefix": [
+            ":pig_nose:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐏": {
+        "body": "🐏",
+        "prefix": [
+            ":ram:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐑": {
+        "body": "🐑",
+        "prefix": [
+            ":sheep:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐐": {
+        "body": "🐐",
+        "prefix": [
+            ":goat:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐪": {
+        "body": "🐪",
+        "prefix": [
+            ":dromedary_camel:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐫": {
+        "body": "🐫",
+        "prefix": [
+            ":camel:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦙": {
+        "body": "🦙",
+        "prefix": [
+            ":llama:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦒": {
+        "body": "🦒",
+        "prefix": [
+            ":giraffe:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐘": {
+        "body": "🐘",
+        "prefix": [
+            ":elephant:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦣": {
+        "body": "🦣",
+        "prefix": [
+            ":mammoth:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦏": {
+        "body": "🦏",
+        "prefix": [
+            ":rhinoceros:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦛": {
+        "body": "🦛",
+        "prefix": [
+            ":hippopotamus:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐭": {
+        "body": "🐭",
+        "prefix": [
+            ":mouse:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐁": {
+        "body": "🐁",
+        "prefix": [
+            ":mouse2:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐀": {
+        "body": "🐀",
+        "prefix": [
+            ":rat:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐹": {
+        "body": "🐹",
+        "prefix": [
+            ":hamster:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐰": {
+        "body": "🐰",
+        "prefix": [
+            ":rabbit:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐇": {
+        "body": "🐇",
+        "prefix": [
+            ":rabbit2:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐿️": {
+        "body": "🐿️",
+        "prefix": [
+            ":chipmunk:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦫": {
+        "body": "🦫",
+        "prefix": [
+            ":beaver:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦔": {
+        "body": "🦔",
+        "prefix": [
+            ":hedgehog:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦇": {
+        "body": "🦇",
+        "prefix": [
+            ":bat:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐻": {
+        "body": "🐻",
+        "prefix": [
+            ":bear:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐻‍❄️": {
+        "body": "🐻‍❄️",
+        "prefix": [
+            ":polar_bear:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐨": {
+        "body": "🐨",
+        "prefix": [
+            ":koala:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐼": {
+        "body": "🐼",
+        "prefix": [
+            ":panda_face:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦥": {
+        "body": "🦥",
+        "prefix": [
+            ":sloth:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦦": {
+        "body": "🦦",
+        "prefix": [
+            ":otter:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦨": {
+        "body": "🦨",
+        "prefix": [
+            ":skunk:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦘": {
+        "body": "🦘",
+        "prefix": [
+            ":kangaroo:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦡": {
+        "body": "🦡",
+        "prefix": [
+            ":badger:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🐾": {
+        "body": "🐾",
+        "prefix": [
+            ":feet:",
+            ":paw_prints:",
+        ],
+        "description": "Animals & Nature - Animal Mammal"
+    },
+    "🦃": {
+        "body": "🦃",
+        "prefix": [
+            ":turkey:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🐔": {
+        "body": "🐔",
+        "prefix": [
+            ":chicken:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🐓": {
+        "body": "🐓",
+        "prefix": [
+            ":rooster:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🐣": {
+        "body": "🐣",
+        "prefix": [
+            ":hatching_chick:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🐤": {
+        "body": "🐤",
+        "prefix": [
+            ":baby_chick:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🐥": {
+        "body": "🐥",
+        "prefix": [
+            ":hatched_chick:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🐦": {
+        "body": "🐦",
+        "prefix": [
+            ":bird:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🐧": {
+        "body": "🐧",
+        "prefix": [
+            ":penguin:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🕊️": {
+        "body": "🕊️",
+        "prefix": [
+            ":dove:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🦅": {
+        "body": "🦅",
+        "prefix": [
+            ":eagle:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🦆": {
+        "body": "🦆",
+        "prefix": [
+            ":duck:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🦢": {
+        "body": "🦢",
+        "prefix": [
+            ":swan:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🦉": {
+        "body": "🦉",
+        "prefix": [
+            ":owl:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🦤": {
+        "body": "🦤",
+        "prefix": [
+            ":dodo:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🪶": {
+        "body": "🪶",
+        "prefix": [
+            ":feather:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🦩": {
+        "body": "🦩",
+        "prefix": [
+            ":flamingo:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🦚": {
+        "body": "🦚",
+        "prefix": [
+            ":peacock:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🦜": {
+        "body": "🦜",
+        "prefix": [
+            ":parrot:",
+        ],
+        "description": "Animals & Nature - Animal Bird"
+    },
+    "🐸": {
+        "body": "🐸",
+        "prefix": [
+            ":frog:",
+        ],
+        "description": "Animals & Nature - Animal Amphibian"
+    },
+    "🐊": {
+        "body": "🐊",
+        "prefix": [
+            ":crocodile:",
+        ],
+        "description": "Animals & Nature - Animal Reptile"
+    },
+    "🐢": {
+        "body": "🐢",
+        "prefix": [
+            ":turtle:",
+        ],
+        "description": "Animals & Nature - Animal Reptile"
+    },
+    "🦎": {
+        "body": "🦎",
+        "prefix": [
+            ":lizard:",
+        ],
+        "description": "Animals & Nature - Animal Reptile"
+    },
+    "🐍": {
+        "body": "🐍",
+        "prefix": [
+            ":snake:",
+        ],
+        "description": "Animals & Nature - Animal Reptile"
+    },
+    "🐲": {
+        "body": "🐲",
+        "prefix": [
+            ":dragon_face:",
+        ],
+        "description": "Animals & Nature - Animal Reptile"
+    },
+    "🐉": {
+        "body": "🐉",
+        "prefix": [
+            ":dragon:",
+        ],
+        "description": "Animals & Nature - Animal Reptile"
+    },
+    "🦕": {
+        "body": "🦕",
+        "prefix": [
+            ":sauropod:",
+        ],
+        "description": "Animals & Nature - Animal Reptile"
+    },
+    "🦖": {
+        "body": "🦖",
+        "prefix": [
+            ":t-rex:",
+        ],
+        "description": "Animals & Nature - Animal Reptile"
+    },
+    "🐳": {
+        "body": "🐳",
+        "prefix": [
+            ":whale:",
+        ],
+        "description": "Animals & Nature - Animal Marine"
+    },
+    "🐋": {
+        "body": "🐋",
+        "prefix": [
+            ":whale2:",
+        ],
+        "description": "Animals & Nature - Animal Marine"
+    },
+    "🐬": {
+        "body": "🐬",
+        "prefix": [
+            ":dolphin:",
+            ":flipper:",
+        ],
+        "description": "Animals & Nature - Animal Marine"
+    },
+    "🦭": {
+        "body": "🦭",
+        "prefix": [
+            ":seal:",
+        ],
+        "description": "Animals & Nature - Animal Marine"
+    },
+    "🐟": {
+        "body": "🐟",
+        "prefix": [
+            ":fish:",
+        ],
+        "description": "Animals & Nature - Animal Marine"
+    },
+    "🐠": {
+        "body": "🐠",
+        "prefix": [
+            ":tropical_fish:",
+        ],
+        "description": "Animals & Nature - Animal Marine"
+    },
+    "🐡": {
+        "body": "🐡",
+        "prefix": [
+            ":blowfish:",
+        ],
+        "description": "Animals & Nature - Animal Marine"
+    },
+    "🦈": {
+        "body": "🦈",
+        "prefix": [
+            ":shark:",
+        ],
+        "description": "Animals & Nature - Animal Marine"
+    },
+    "🐙": {
+        "body": "🐙",
+        "prefix": [
+            ":octopus:",
+        ],
+        "description": "Animals & Nature - Animal Marine"
+    },
+    "🐚": {
+        "body": "🐚",
+        "prefix": [
+            ":shell:",
+        ],
+        "description": "Animals & Nature - Animal Marine"
+    },
+    "🐌": {
+        "body": "🐌",
+        "prefix": [
+            ":snail:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🦋": {
+        "body": "🦋",
+        "prefix": [
+            ":butterfly:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🐛": {
+        "body": "🐛",
+        "prefix": [
+            ":bug:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🐜": {
+        "body": "🐜",
+        "prefix": [
+            ":ant:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🐝": {
+        "body": "🐝",
+        "prefix": [
+            ":bee:",
+            ":honeybee:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🪲": {
+        "body": "🪲",
+        "prefix": [
+            ":beetle:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🐞": {
+        "body": "🐞",
+        "prefix": [
+            ":lady_beetle:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🦗": {
+        "body": "🦗",
+        "prefix": [
+            ":cricket:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🪳": {
+        "body": "🪳",
+        "prefix": [
+            ":cockroach:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🕷️": {
+        "body": "🕷️",
+        "prefix": [
+            ":spider:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🕸️": {
+        "body": "🕸️",
+        "prefix": [
+            ":spider_web:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🦂": {
+        "body": "🦂",
+        "prefix": [
+            ":scorpion:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🦟": {
+        "body": "🦟",
+        "prefix": [
+            ":mosquito:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🪰": {
+        "body": "🪰",
+        "prefix": [
+            ":fly:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🪱": {
+        "body": "🪱",
+        "prefix": [
+            ":worm:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "🦠": {
+        "body": "🦠",
+        "prefix": [
+            ":microbe:",
+        ],
+        "description": "Animals & Nature - Animal Bug"
+    },
+    "💐": {
+        "body": "💐",
+        "prefix": [
+            ":bouquet:",
+        ],
+        "description": "Animals & Nature - Plant Flower"
+    },
+    "🌸": {
+        "body": "🌸",
+        "prefix": [
+            ":cherry_blossom:",
+        ],
+        "description": "Animals & Nature - Plant Flower"
+    },
+    "💮": {
+        "body": "💮",
+        "prefix": [
+            ":white_flower:",
+        ],
+        "description": "Animals & Nature - Plant Flower"
+    },
+    "🏵️": {
+        "body": "🏵️",
+        "prefix": [
+            ":rosette:",
+        ],
+        "description": "Animals & Nature - Plant Flower"
+    },
+    "🌹": {
+        "body": "🌹",
+        "prefix": [
+            ":rose:",
+        ],
+        "description": "Animals & Nature - Plant Flower"
+    },
+    "🥀": {
+        "body": "🥀",
+        "prefix": [
+            ":wilted_flower:",
+        ],
+        "description": "Animals & Nature - Plant Flower"
+    },
+    "🌺": {
+        "body": "🌺",
+        "prefix": [
+            ":hibiscus:",
+        ],
+        "description": "Animals & Nature - Plant Flower"
+    },
+    "🌻": {
+        "body": "🌻",
+        "prefix": [
+            ":sunflower:",
+        ],
+        "description": "Animals & Nature - Plant Flower"
+    },
+    "🌼": {
+        "body": "🌼",
+        "prefix": [
+            ":blossom:",
+        ],
+        "description": "Animals & Nature - Plant Flower"
+    },
+    "🌷": {
+        "body": "🌷",
+        "prefix": [
+            ":tulip:",
+        ],
+        "description": "Animals & Nature - Plant Flower"
+    },
+    "🌱": {
+        "body": "🌱",
+        "prefix": [
+            ":seedling:",
+        ],
+        "description": "Animals & Nature - Plant Other"
+    },
+    "🪴": {
+        "body": "🪴",
+        "prefix": [
+            ":potted_plant:",
+        ],
+        "description": "Animals & Nature - Plant Other"
+    },
+    "🌲": {
+        "body": "🌲",
+        "prefix": [
+            ":evergreen_tree:",
+        ],
+        "description": "Animals & Nature - Plant Other"
+    },
+    "🌳": {
+        "body": "🌳",
+        "prefix": [
+            ":deciduous_tree:",
+        ],
+        "description": "Animals & Nature - Plant Other"
+    },
+    "🌴": {
+        "body": "🌴",
+        "prefix": [
+            ":palm_tree:",
+        ],
+        "description": "Animals & Nature - Plant Other"
+    },
+    "🌵": {
+        "body": "🌵",
+        "prefix": [
+            ":cactus:",
+        ],
+        "description": "Animals & Nature - Plant Other"
+    },
+    "🌾": {
+        "body": "🌾",
+        "prefix": [
+            ":ear_of_rice:",
+        ],
+        "description": "Animals & Nature - Plant Other"
+    },
+    "🌿": {
+        "body": "🌿",
+        "prefix": [
+            ":herb:",
+        ],
+        "description": "Animals & Nature - Plant Other"
+    },
+    "☘️": {
+        "body": "☘️",
+        "prefix": [
+            ":shamrock:",
+        ],
+        "description": "Animals & Nature - Plant Other"
+    },
+    "🍀": {
+        "body": "🍀",
+        "prefix": [
+            ":four_leaf_clover:",
+        ],
+        "description": "Animals & Nature - Plant Other"
+    },
+    "🍁": {
+        "body": "🍁",
+        "prefix": [
+            ":maple_leaf:",
+        ],
+        "description": "Animals & Nature - Plant Other"
+    },
+    "🍂": {
+        "body": "🍂",
+        "prefix": [
+            ":fallen_leaf:",
+        ],
+        "description": "Animals & Nature - Plant Other"
+    },
+    "🍃": {
+        "body": "🍃",
+        "prefix": [
+            ":leaves:",
+        ],
+        "description": "Animals & Nature - Plant Other"
+    },
+}

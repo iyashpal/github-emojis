@@ -1,0 +1,2464 @@
+{
+    "👋": {
+        "body": "👋",
+        "prefix": [
+            ":wave:"
+        ],
+        "description": "People & Body - Hand Fingers Open"
+    },
+    "🤚": {
+        "body": "🤚",
+        "prefix": [
+            ":raised_back_of_hand:"
+        ],
+        "description": "People & Body - Hand Fingers Open"
+    },
+    "🖐️": {
+        "body": "🖐️",
+        "prefix": [
+            ":raised_hand_with_fingers_splayed:"
+        ],
+        "description": "People & Body - Hand Fingers Open"
+    },
+    "✋": {
+        "body": "✋",
+        "prefix": [
+            ":hand:",
+            ":raised_hand:"
+        ],
+        "description": "People & Body - Hand Fingers Open"
+    },
+    "🖖": {
+        "body": "🖖",
+        "prefix": [
+            ":vulcan_salute:",
+        ],
+        "description": "People & Body - Hand Fingers Open"
+    },
+    "👌": {
+        "body": "👌",
+        "prefix": [
+            ":ok_hand:",
+        ],
+        "description": "People & Body - Hand Fingers Partial"
+    },
+    "🤌": {
+        "body": "🤌",
+        "prefix": [
+            ":pinched_fingers:",
+        ],
+        "description": "People & Body - Hand Fingers Partial"
+    },
+    "🤏": {
+        "body": "🤏",
+        "prefix": [
+            ":pinching_hand:",
+        ],
+        "description": "People & Body - Hand Fingers Partial"
+    },
+    "✌️": {
+        "body": "✌️",
+        "prefix": [
+            ":v:",
+        ],
+        "description": "People & Body - Hand Fingers Partial"
+    },
+    "🤞": {
+        "body": "🤞",
+        "prefix": [
+            ":crossed_fingers:",
+        ],
+        "description": "People & Body - Hand Fingers Partial"
+    },
+    "🤟": {
+        "body": "🤟",
+        "prefix": [
+            ":love_you_gesture:",
+        ],
+        "description": "People & Body - Hand Fingers Partial"
+    },
+    "🤘": {
+        "body": "🤘",
+        "prefix": [
+            ":metal:",
+        ],
+        "description": "People & Body - Hand Fingers Partial"
+    },
+    "🤙": {
+        "body": "🤙",
+        "prefix": [
+            ":call_me_hand:",
+        ],
+        "description": "People & Body - Hand Fingers Partial"
+    },
+    "👈": {
+        "body": "👈",
+        "prefix": [
+            ":point_left:",
+        ],
+        "description": "People & Body - Hand Single Finger"
+    },
+    "👉": {
+        "body": "👉",
+        "prefix": [
+            ":point_right:",
+        ],
+        "description": "People & Body - Hand Single Finger"
+    },
+    "👆": {
+        "body": "👆",
+        "prefix": [
+            ":point_up_2:",
+        ],
+        "description": "People & Body - Hand Single Finger"
+    },
+    "🖕": {
+        "body": "🖕",
+        "prefix": [
+            ":fu:",
+            ":middle_finger:",
+        ],
+        "description": "People & Body - Hand Single Finger"
+    },
+    "👇": {
+        "body": "👇",
+        "prefix": [
+            ":point_down:",
+        ],
+        "description": "People & Body - Hand Single Finger"
+    },
+    "☝️": {
+        "body": "☝️",
+        "prefix": [
+            ":point_up:",
+        ],
+        "description": "People & Body - Hand Single Finger"
+    },
+    "👍": {
+        "body": "👍",
+        "prefix": [
+            ":+1:",
+            ":thumbsup:",
+        ],
+        "description": "People & Body - Hand Fingers Closed"
+    },
+    "👎": {
+        "body": "👎",
+        "prefix": [
+            ":-1:",
+            ":thumbsdown:",
+        ],
+        "description": "People & Body - Hand Fingers Closed"
+    },
+    "✊": {
+        "body": "✊",
+        "prefix": [
+            ":fist:",
+            ":fist_raised:",
+        ],
+        "description": "People & Body - Hand Fingers Closed"
+    },
+    "👊": {
+        "body": "👊",
+        "prefix": [
+            ":facepunch:",
+            ":fist_oncoming:",
+            ":punch:",
+        ],
+        "description": "People & Body - Hand Fingers Closed"
+    },
+    "🤛": {
+        "body": "🤛",
+        "prefix": [
+            ":fist_left:",
+        ],
+        "description": "People & Body - Hand Fingers Closed"
+    },
+    "🤜": {
+        "body": "🤜",
+        "prefix": [
+            ":fist_right:",
+        ],
+        "description": "People & Body - Hand Fingers Closed"
+    },
+    "👏": {
+        "body": "👏",
+        "prefix": [
+            ":clap:",
+        ],
+        "description": "People & Body - Hands"
+    },
+    "🙌": {
+        "body": "🙌",
+        "prefix": [
+            ":raised_hands:",
+        ],
+        "description": "People & Body - Hands"
+    },
+    "👐": {
+        "body": "👐",
+        "prefix": [
+            ":open_hands:",
+        ],
+        "description": "People & Body - Hands"
+    },
+    "🤲": {
+        "body": "🤲",
+        "prefix": [
+            ":palms_up_together:",
+        ],
+        "description": "People & Body - Hands"
+    },
+    "🤝": {
+        "body": "🤝",
+        "prefix": [
+            ":handshake:",
+        ],
+        "description": "People & Body - Hands"
+    },
+    "🙏": {
+        "body": "🙏",
+        "prefix": [
+            ":pray:",
+        ],
+        "description": "People & Body - Hands"
+    },
+    "✍️": {
+        "body": "✍️",
+        "prefix": [
+            ":writing_hand:",
+        ],
+        "description": "People & Body - Hand Prop"
+    },
+    "💅": {
+        "body": "💅",
+        "prefix": [
+            ":nail_care:",
+        ],
+        "description": "People & Body - Hand Prop"
+    },
+    "🤳": {
+        "body": "🤳",
+        "prefix": [
+            ":selfie:",
+        ],
+        "description": "People & Body - Hand Prop"
+    },
+    "💪": {
+        "body": "💪",
+        "prefix": [
+            ":muscle:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "🦾": {
+        "body": "🦾",
+        "prefix": [
+            ":mechanical_arm:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "🦿": {
+        "body": "🦿",
+        "prefix": [
+            ":mechanical_leg:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "🦵": {
+        "body": "🦵",
+        "prefix": [
+            ":leg:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "🦶": {
+        "body": "🦶",
+        "prefix": [
+            ":foot:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "👂": {
+        "body": "👂",
+        "prefix": [
+            ":ear:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "🦻": {
+        "body": "🦻",
+        "prefix": [
+            ":ear_with_hearing_aid:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "👃": {
+        "body": "👃",
+        "prefix": [
+            ":nose:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "🧠": {
+        "body": "🧠",
+        "prefix": [
+            ":brain:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "🫀": {
+        "body": "🫀",
+        "prefix": [
+            ":anatomical_heart:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "🫁": {
+        "body": "🫁",
+        "prefix": [
+            ":lungs:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "🦷": {
+        "body": "🦷",
+        "prefix": [
+            ":tooth:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "🦴": {
+        "body": "🦴",
+        "prefix": [
+            ":bone:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "👀": {
+        "body": "👀",
+        "prefix": [
+            ":eyes:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "👁️": {
+        "body": "👁️",
+        "prefix": [
+            ":eye:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "👅": {
+        "body": "👅",
+        "prefix": [
+            ":tongue:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "👄": {
+        "body": "👄",
+        "prefix": [
+            ":lips:",
+        ],
+        "description": "People & Body - Body Parts"
+    },
+    "👶": {
+        "body": "👶",
+        "prefix": [
+            ":baby:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "🧒": {
+        "body": "🧒",
+        "prefix": [
+            ":child:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👦": {
+        "body": "👦",
+        "prefix": [
+            ":boy:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👧": {
+        "body": "👧",
+        "prefix": [
+            ":girl:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "🧑": {
+        "body": "🧑",
+        "prefix": [
+            ":adult:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👱": {
+        "body": "👱",
+        "prefix": [
+            ":blond_haired_person:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👨": {
+        "body": "👨",
+        "prefix": [
+            ":man:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "🧔": {
+        "body": "🧔",
+        "prefix": [
+            ":bearded_person:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "🧔‍♂️": {
+        "body": "🧔‍♂️",
+        "prefix": [
+            ":man_beard:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "🧔‍♀️": {
+        "body": "🧔‍♀️",
+        "prefix": [
+            ":woman_beard:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👨‍🦰": {
+        "body": "👨‍🦰",
+        "prefix": [
+            ":red_haired_man:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👨‍🦱": {
+        "body": "👨‍🦱",
+        "prefix": [
+            ":curly_haired_man:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👨‍🦳": {
+        "body": "👨‍🦳",
+        "prefix": [
+            ":white_haired_man:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👨‍🦲": {
+        "body": "👨‍🦲",
+        "prefix": [
+            ":bald_man:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👩": {
+        "body": "👩",
+        "prefix": [
+            ":woman:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👩‍🦰": {
+        "body": "👩‍🦰",
+        "prefix": [
+            ":red_haired_woman:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "🧑‍🦰": {
+        "body": "🧑‍🦰",
+        "prefix": [
+            ":person_red_hair:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👩‍🦱": {
+        "body": "👩‍🦱",
+        "prefix": [
+            ":curly_haired_woman:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "🧑‍🦱": {
+        "body": "🧑‍🦱",
+        "prefix": [
+            ":person_curly_hair:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👩‍🦳": {
+        "body": "👩‍🦳",
+        "prefix": [
+            ":white_haired_woman:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "🧑‍🦳": {
+        "body": "🧑‍🦳",
+        "prefix": [
+            ":person_white_hair:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👩‍🦲": {
+        "body": "👩‍🦲",
+        "prefix": [
+            ":bald_woman:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "🧑‍🦲": {
+        "body": "🧑‍🦲",
+        "prefix": [
+            ":person_bald:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👱‍♀️": {
+        "body": "👱‍♀️",
+        "prefix": [
+            ":blond_haired_woman:",
+            ":blonde_woman:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👱‍♂️": {
+        "body": "👱‍♂️",
+        "prefix": [
+            ":blond_haired_man:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "🧓": {
+        "body": "🧓",
+        "prefix": [
+            ":older_adult:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👴": {
+        "body": "👴",
+        "prefix": [
+            ":older_man:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "👵": {
+        "body": "👵",
+        "prefix": [
+            ":older_woman:",
+        ],
+        "description": "People & Body - Person"
+    },
+    "🙍": {
+        "body": "🙍",
+        "prefix": [
+            ":frowning_person:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙍‍♂️": {
+        "body": "🙍‍♂️",
+        "prefix": [
+            ":frowning_man:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙍‍♀️": {
+        "body": "🙍‍♀️",
+        "prefix": [
+            ":frowning_woman:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙎": {
+        "body": "🙎",
+        "prefix": [
+            ":pouting_face:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙎‍♂️": {
+        "body": "🙎‍♂️",
+        "prefix": [
+            ":pouting_man:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙎‍♀️": {
+        "body": "🙎‍♀️",
+        "prefix": [
+            ":pouting_woman:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙅": {
+        "body": "🙅",
+        "prefix": [
+            ":no_good:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙅‍♂️": {
+        "body": "🙅‍♂️",
+        "prefix": [
+            ":ng_man:",
+            ":no_good_man:"
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙅‍♀️": {
+        "body": "🙅‍♀️",
+        "prefix": [
+            ":ng_woman:",
+            ":no_good_woman:"
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙆": {
+        "body": "🙆",
+        "prefix": [
+            ":ok_person:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙆‍♂️": {
+        "body": "🙆‍♂️",
+        "prefix": [
+            ":ok_man:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙆‍♀️": {
+        "body": "🙆‍♀️",
+        "prefix": [
+            ":ok_woman:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "💁": {
+        "body": "💁",
+        "prefix": [
+            ":information_desk_person:",
+            ":tipping_hand_person:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "💁‍♂️": {
+        "body": "💁‍♂️",
+        "prefix": [
+            ":sassy_man:",
+            ":tipping_hand_man:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "💁‍♀️": {
+        "body": "💁‍♀️",
+        "prefix": [
+            ":sassy_woman:",
+            ":tipping_hand_woman:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙋": {
+        "body": "🙋",
+        "prefix": [
+            ":raising_hand:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙋‍♂️": {
+        "body": "🙋‍♂️",
+        "prefix": [
+            ":raising_hand_man:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙋‍♀️": {
+        "body": "🙋‍♀️",
+        "prefix": [
+            ":raising_hand_woman:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🧏": {
+        "body": "🧏",
+        "prefix": [
+            ":deaf_person:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🧏‍♂️": {
+        "body": "🧏‍♂️",
+        "prefix": [
+            ":deaf_man:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🧏‍♀️": {
+        "body": "🧏‍♀️",
+        "prefix": [
+            ":deaf_woman:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙇": {
+        "body": "🙇",
+        "prefix": [
+            ":bow:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙇‍♂️": {
+        "body": "🙇‍♂️",
+        "prefix": [
+            ":bowing_man:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🙇‍♀️": {
+        "body": "🙇‍♀️",
+        "prefix": [
+            ":bowing_woman:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🤦": {
+        "body": "🤦",
+        "prefix": [
+            ":bowing_woman:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🤦‍♂️": {
+        "body": "🤦‍♂️",
+        "prefix": [
+            ":man_facepalming:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🤦‍♀️": {
+        "body": "🤦‍♀️",
+        "prefix": [
+            ":woman_facepalming:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🤷": {
+        "body": "🤷",
+        "prefix": [
+            ":shrug:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🤷‍♂️": {
+        "body": "🤷‍♂️",
+        "prefix": [
+            ":man_shrugging:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🤷‍♀️": {
+        "body": "🤷‍♀️",
+        "prefix": [
+            ":woman_shrugging:",
+        ],
+        "description": "People & Body - Person Gesture"
+    },
+    "🧑‍⚕️": {
+        "body": "🧑‍⚕️",
+        "prefix": [
+            ":health_worker:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍⚕️": {
+        "body": "👨‍⚕️",
+        "prefix": [
+            ":man_health_worker:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍⚕️": {
+        "body": "👩‍⚕️",
+        "prefix": [
+            ":woman_health_worker:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍🎓": {
+        "body": "🧑‍🎓",
+        "prefix": [
+            ":student:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍🎓": {
+        "body": "👨‍🎓",
+        "prefix": [
+            ":man_student:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍🎓": {
+        "body": "👩‍🎓",
+        "prefix": [
+            ":woman_student:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍🏫": {
+        "body": "🧑‍🏫",
+        "prefix": [
+            ":teacher:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍🏫": {
+        "body": "👨‍🏫",
+        "prefix": [
+            ":man_teacher:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍🏫": {
+        "body": "👩‍🏫",
+        "prefix": [
+            ":woman_teacher:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍⚖️": {
+        "body": "🧑‍⚖️",
+        "prefix": [
+            ":judge:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍⚖️": {
+        "body": "👨‍⚖️",
+        "prefix": [
+            ":man_judge:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍⚖️": {
+        "body": "👩‍⚖️",
+        "prefix": [
+            ":woman_judge:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍🌾": {
+        "body": "🧑‍🌾",
+        "prefix": [
+            ":farmer:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍🌾": {
+        "body": "👨‍🌾",
+        "prefix": [
+            ":man_farmer:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍🌾": {
+        "body": "👩‍🌾",
+        "prefix": [
+            ":woman_farmer:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍🍳": {
+        "body": "🧑‍🍳",
+        "prefix": [
+            ":cook:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍🍳": {
+        "body": "👨‍🍳",
+        "prefix": [
+            ":man_cook:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍🍳": {
+        "body": "👩‍🍳",
+        "prefix": [
+            ":woman_cook:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍🔧": {
+        "body": "🧑‍🔧",
+        "prefix": [
+            ":mechanic:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍🔧": {
+        "body": "👨‍🔧",
+        "prefix": [
+            ":man_mechanic:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍🔧": {
+        "body": "👩‍🔧",
+        "prefix": [
+            ":woman_mechanic:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍🏭": {
+        "body": "🧑‍🏭",
+        "prefix": [
+            ":factory_worker:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍🏭": {
+        "body": "👨‍🏭",
+        "prefix": [
+            ":man_factory_worker:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍🏭": {
+        "body": "👩‍🏭",
+        "prefix": [
+            ":woman_factory_worker:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍💼": {
+        "body": "🧑‍💼",
+        "prefix": [
+            ":office_worker:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍💼": {
+        "body": "👨‍💼",
+        "prefix": [
+            ":man_office_worker:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍💼": {
+        "body": "👩‍💼",
+        "prefix": [
+            ":woman_office_worker:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍🔬": {
+        "body": "🧑‍🔬",
+        "prefix": [
+            ":scientist:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍🔬": {
+        "body": "👨‍🔬",
+        "prefix": [
+            ":man_scientist:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍🔬": {
+        "body": "👩‍🔬",
+        "prefix": [
+            ":woman_scientist:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍💻": {
+        "body": "🧑‍💻",
+        "prefix": [
+            ":technologist:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍💻": {
+        "body": "👨‍💻",
+        "prefix": [
+            ":man_technologist:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍💻": {
+        "body": "👩‍💻",
+        "prefix": [
+            ":woman_technologist:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍🎤": {
+        "body": "🧑‍🎤",
+        "prefix": [
+            ":singer:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍🎤": {
+        "body": "👨‍🎤",
+        "prefix": [
+            ":man_singer:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍🎤": {
+        "body": "👩‍🎤",
+        "prefix": [
+            ":woman_singer:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍🎨": {
+        "body": "🧑‍🎨",
+        "prefix": [
+            ":artist:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍🎨": {
+        "body": "👨‍🎨",
+        "prefix": [
+            ":man_artist:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍🎨": {
+        "body": "👩‍🎨",
+        "prefix": [
+            ":woman_artist:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍✈️": {
+        "body": "🧑‍✈️",
+        "prefix": [
+            ":pilot:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍✈️": {
+        "body": "👨‍✈️",
+        "prefix": [
+            ":man_pilot:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍✈️": {
+        "body": "👩‍✈️",
+        "prefix": [
+            ":woman_pilot:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍🚀": {
+        "body": "🧑‍🚀",
+        "prefix": [
+            ":astronaut:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍🚀": {
+        "body": "👨‍🚀",
+        "prefix": [
+            ":man_astronaut:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍🚀": {
+        "body": "👩‍🚀",
+        "prefix": [
+            ":woman_astronaut:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍🚒": {
+        "body": "🧑‍🚒",
+        "prefix": [
+            ":firefighter:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍🚒": {
+        "body": "👨‍🚒",
+        "prefix": [
+            ":man_firefighter:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍🚒": {
+        "body": "👩‍🚒",
+        "prefix": [
+            ":woman_firefighter:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👮": {
+        "body": "👮",
+        "prefix": [
+            ":cop:",
+            ":police_officer:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👮‍♂️": {
+        "body": "👮‍♂️",
+        "prefix": [
+            ":policeman:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👮‍♀️": {
+        "body": "👮‍♀️",
+        "prefix": [
+            ":policewoman:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🕵️": {
+        "body": "🕵️",
+        "prefix": [
+            ":detective:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🕵️‍♂️": {
+        "body": "🕵️‍♂️",
+        "prefix": [
+            ":male_detective:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🕵️‍♀️": {
+        "body": "🕵️‍♀️",
+        "prefix": [
+            ":female_detective:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "💂": {
+        "body": "💂",
+        "prefix": [
+            ":guard:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "💂‍♂️": {
+        "body": "💂‍♂️",
+        "prefix": [
+            ":guardsman:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "💂‍♀️": {
+        "body": "💂‍♀️",
+        "prefix": [
+            ":guardswoman:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🥷": {
+        "body": "🥷",
+        "prefix": [
+            ":ninja:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👷": {
+        "body": "👷",
+        "prefix": [
+            ":construction_worker:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👷‍♂️": {
+        "body": "👷‍♂️",
+        "prefix": [
+            ":construction_worker_man:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👷‍♀️": {
+        "body": "👷‍♀️",
+        "prefix": [
+            ":construction_worker_woman:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🤴": {
+        "body": "🤴",
+        "prefix": [
+            ":prince:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👸": {
+        "body": "👸",
+        "prefix": [
+            ":princess:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👳": {
+        "body": "👳",
+        "prefix": [
+            ":person_with_turban:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👳‍♂️": {
+        "body": "👳‍♂️",
+        "prefix": [
+            ":man_with_turban:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👳‍♀️": {
+        "body": "👳‍♀️",
+        "prefix": [
+            ":woman_with_turban:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👲": {
+        "body": "👲",
+        "prefix": [
+            ":man_with_gua_pi_mao:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧕": {
+        "body": "🧕",
+        "prefix": [
+            ":woman_with_headscarf:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🤵": {
+        "body": "🤵",
+        "prefix": [
+            ":person_in_tuxedo:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🤵‍♂️": {
+        "body": "🤵‍♂️",
+        "prefix": [
+            ":man_in_tuxedo:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🤵‍♀️": {
+        "body": "🤵‍♀️",
+        "prefix": [
+            ":woman_in_tuxedo:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👰": {
+        "body": "👰",
+        "prefix": [
+            ":person_with_veil:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👰‍♂️": {
+        "body": "👰‍♂️",
+        "prefix": [
+            ":man_with_veil:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👰‍♀️": {
+        "body": "👰‍♀️",
+        "prefix": [
+            ":bride_with_veil:",
+            ":woman_with_veil:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🤰": {
+        "body": "🤰",
+        "prefix": [
+            ":pregnant_woman:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🤱": {
+        "body": "🤱",
+        "prefix": [
+            ":breast_feeding:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👩‍🍼": {
+        "body": "👩‍🍼",
+        "prefix": [
+            ":woman_feeding_baby:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👨‍🍼": {
+        "body": "👨‍🍼",
+        "prefix": [
+            ":man_feeding_baby:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🧑‍🍼": {
+        "body": "🧑‍🍼",
+        "prefix": [
+            ":person_feeding_baby:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "👼": {
+        "body": "👼",
+        "prefix": [
+            ":angel:",
+        ],
+        "description": "People & Body - Person Role"
+    },
+    "🎅": {
+        "body": "🎅",
+        "prefix": [
+            ":santa:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🤶": {
+        "body": "🤶",
+        "prefix": [
+            ":mrs_claus:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧑‍🎄": {
+        "body": "🧑‍🎄",
+        "prefix": [
+            ":mx_claus:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🦸": {
+        "body": "🦸",
+        "prefix": [
+            ":superhero:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🦸‍♂️": {
+        "body": "🦸‍♂️",
+        "prefix": [
+            ":superhero_man:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🦸‍♀️": {
+        "body": "🦸‍♀️",
+        "prefix": [
+            ":superhero_woman:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🦹": {
+        "body": "🦹",
+        "prefix": [
+            ":supervillain:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🦹‍♂️": {
+        "body": "🦹‍♂️",
+        "prefix": [
+            ":supervillain_man:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🦹‍♀️": {
+        "body": "🦹‍♀️",
+        "prefix": [
+            ":supervillain_woman:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧙": {
+        "body": "🧙",
+        "prefix": [
+            ":mage:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧙‍♂️": {
+        "body": "🧙‍♂️",
+        "prefix": [
+            ":mage_man:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧙‍♀️": {
+        "body": "🧙‍♀️",
+        "prefix": [
+            ":mage_woman:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧚": {
+        "body": "🧚",
+        "prefix": [
+            ":fairy:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧚‍♂️": {
+        "body": "🧚‍♂️",
+        "prefix": [
+            ":fairy_man:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧚‍♀️": {
+        "body": "🧚‍♀️",
+        "prefix": [
+            ":fairy_woman:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧛": {
+        "body": "🧛",
+        "prefix": [
+            ":vampire:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧛‍♂️": {
+        "body": "🧛‍♂️",
+        "prefix": [
+            ":vampire_man:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧛‍♀️": {
+        "body": "🧛‍♀️",
+        "prefix": [
+            ":vampire_woman:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧜": {
+        "body": "🧜",
+        "prefix": [
+            ":merperson:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧜‍♂️": {
+        "body": "🧜‍♂️",
+        "prefix": [
+            ":merman:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧜‍♀️": {
+        "body": "🧜‍♀️",
+        "prefix": [
+            ":mermaid:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧝": {
+        "body": "🧝",
+        "prefix": [
+            ":elf:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧝‍♂️": {
+        "body": "🧝‍♂️",
+        "prefix": [
+            ":elf_man:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧝‍♀️": {
+        "body": "🧝‍♀️",
+        "prefix": [
+            ":elf_woman:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧞": {
+        "body": "🧞",
+        "prefix": [
+            ":genie:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧞‍♂️": {
+        "body": "🧞‍♂️",
+        "prefix": [
+            ":genie_man:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧞‍♀️": {
+        "body": "🧞‍♀️",
+        "prefix": [
+            ":genie_woman:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧟": {
+        "body": "🧟",
+        "prefix": [
+            ":zombie:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧟‍♂️": {
+        "body": "🧟‍♂️",
+        "prefix": [
+            ":zombie_man:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "🧟‍♀️": {
+        "body": "🧟‍♀️",
+        "prefix": [
+            ":zombie_woman:",
+        ],
+        "description": "People & Body - Person Fantasy"
+    },
+    "💆": {
+        "body": "💆",
+        "prefix": [
+            ":massage:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "💆‍♂️": {
+        "body": "💆‍♂️",
+        "prefix": [
+            ":massage_man:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "💆‍♀️": {
+        "body": "💆‍♀️",
+        "prefix": [
+            ":massage_woman:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "💇": {
+        "body": "💇",
+        "prefix": [
+            ":haircut:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "💇‍♂️": {
+        "body": "💇‍♂️",
+        "prefix": [
+            ":haircut_man:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "💇‍♀️": {
+        "body": "💇‍♀️",
+        "prefix": [
+            ":haircut_woman:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🚶": {
+        "body": "🚶",
+        "prefix": [
+            ":walking:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🚶‍♂️": {
+        "body": "🚶‍♂️",
+        "prefix": [
+            ":walking_man:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🚶‍♀️": {
+        "body": "🚶‍♀️",
+        "prefix": [
+            ":walking_woman:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧍": {
+        "body": "🧍",
+        "prefix": [
+            ":standing_person:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧍‍♂️": {
+        "body": "🧍‍♂️",
+        "prefix": [
+            ":standing_man:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧍‍♀️": {
+        "body": "🧍‍♀️",
+        "prefix": [
+            ":standing_woman:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧎": {
+        "body": "🧎",
+        "prefix": [
+            ":kneeling_person:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧎‍♂️": {
+        "body": "🧎‍♂️",
+        "prefix": [
+            ":kneeling_man:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧎‍♀️": {
+        "body": "🧎‍♀️",
+        "prefix": [
+            ":kneeling_woman:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧑‍🦯": {
+        "body": "🧑‍🦯",
+        "prefix": [
+            ":person_with_probing_cane:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "👨‍🦯": {
+        "body": "👨‍🦯",
+        "prefix": [
+            ":man_with_probing_cane:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "👩‍🦯": {
+        "body": "👩‍🦯",
+        "prefix": [
+            ":woman_with_probing_cane:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧑‍🦼": {
+        "body": "🧑‍🦼",
+        "prefix": [
+            ":person_in_motorized_wheelchair:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "👨‍🦼": {
+        "body": "👨‍🦼",
+        "prefix": [
+            ":man_in_motorized_wheelchair:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "👩‍🦼": {
+        "body": "👩‍🦼",
+        "prefix": [
+            ":woman_in_motorized_wheelchair:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧑‍🦽": {
+        "body": "🧑‍🦽",
+        "prefix": [
+            ":person_in_manual_wheelchair:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "👨‍🦽": {
+        "body": "👨‍🦽",
+        "prefix": [
+            ":man_in_manual_wheelchair:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "👩‍🦽": {
+        "body": "👩‍🦽",
+        "prefix": [
+            ":woman_in_manual_wheelchair:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🏃": {
+        "body": "🏃",
+        "prefix": [
+            ":runner:",
+            ":running:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🏃‍♂️": {
+        "body": "🏃‍♂️",
+        "prefix": [
+            ":running_man:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🏃‍♀️": {
+        "body": "🏃‍♀️",
+        "prefix": [
+            ":running_woman:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "💃": {
+        "body": "💃",
+        "prefix": [
+            ":dancer:",
+            ":woman_dancing:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🕺": {
+        "body": "🕺",
+        "prefix": [
+            ":man_dancing:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🕴️": {
+        "body": "🕴️",
+        "prefix": [
+            ":business_suit_levitating:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "👯": {
+        "body": "👯",
+        "prefix": [
+            ":dancers:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "👯‍♂️": {
+        "body": "👯‍♂️",
+        "prefix": [
+            ":dancing_men:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "👯‍♀️": {
+        "body": "👯‍♀️",
+        "prefix": [
+            ":dancing_women:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧖": {
+        "body": "🧖",
+        "prefix": [
+            ":sauna_person:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧖‍♂️": {
+        "body": "🧖‍♂️",
+        "prefix": [
+            ":sauna_man:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧖‍♀️": {
+        "body": "🧖‍♀️",
+        "prefix": [
+            ":sauna_woman:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧗": {
+        "body": "🧗",
+        "prefix": [
+            ":climbing:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧗‍♂️": {
+        "body": "🧗‍♂️",
+        "prefix": [
+            ":climbing_man:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🧗‍♀️": {
+        "body": "🧗‍♀️",
+        "prefix": [
+            ":climbing_woman:",
+        ],
+        "description": "People & Body - Person Activity"
+    },
+    "🤺": {
+        "body": "🤺",
+        "prefix": [
+            ":person_fencing:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏇": {
+        "body": "🏇",
+        "prefix": [
+            ":horse_racing:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "⛷️": {
+        "body": "⛷️",
+        "prefix": [
+            ":skier:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏂": {
+        "body": "🏂",
+        "prefix": [
+            ":skier:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏌️": {
+        "body": "🏌️",
+        "prefix": [
+            ":golfing:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏌️‍♂️": {
+        "body": "🏌️‍♂️",
+        "prefix": [
+            ":golfing_man:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏌️‍♀️": {
+        "body": "🏌️‍♀️",
+        "prefix": [
+            ":golfing_woman:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏄": {
+        "body": "🏄",
+        "prefix": [
+            ":surfer:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏄‍♂️": {
+        "body": "🏄‍♂️",
+        "prefix": [
+            ":surfing_man:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏄‍♀️": {
+        "body": "🏄‍♀️",
+        "prefix": [
+            ":surfing_woman:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🚣": {
+        "body": "🚣",
+        "prefix": [
+            ":rowboat:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🚣‍♂️": {
+        "body": "🚣‍♂️",
+        "prefix": [
+            ":rowing_man:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🚣‍♀️": {
+        "body": "🚣‍♀️",
+        "prefix": [
+            ":rowing_woman:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏊": {
+        "body": "🏊",
+        "prefix": [
+            ":swimmer:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏊‍♂️": {
+        "body": "🏊‍♂️",
+        "prefix": [
+            ":swimming_man:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏊‍♀️": {
+        "body": "🏊‍♀️",
+        "prefix": [
+            ":swimming_woman:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "⛹️": {
+        "body": "⛹️",
+        "prefix": [
+            ":bouncing_ball_person:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "⛹️‍♂️": {
+        "body": "⛹️‍♂️",
+        "prefix": [
+            ":basketball_man:",
+            ":bouncing_ball_man:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "⛹️‍♀️": {
+        "body": "⛹️‍♀️",
+        "prefix": [
+            ":basketball_woman:",
+            ":bouncing_ball_woman:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏋️": {
+        "body": "🏋️",
+        "prefix": [
+            ":weight_lifting:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏋️‍♂️": {
+        "body": "🏋️‍♂️",
+        "prefix": [
+            ":weight_lifting_man:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🏋️‍♀️": {
+        "body": "🏋️‍♀️",
+        "prefix": [
+            ":weight_lifting_woman:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🚴": {
+        "body": "🚴",
+        "prefix": [
+            ":bicyclist:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🚴‍♂️": {
+        "body": "🚴‍♂️",
+        "prefix": [
+            ":biking_man:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🚴‍♀️": {
+        "body": "🚴‍♀️",
+        "prefix": [
+            ":biking_woman:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🚵": {
+        "body": "🚵",
+        "prefix": [
+            ":mountain_bicyclist:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🚵‍♂️": {
+        "body": "🚵‍♂️",
+        "prefix": [
+            ":mountain_biking_man:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🚵‍♀️": {
+        "body": "🚵‍♀️",
+        "prefix": [
+            ":mountain_biking_woman:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤸": {
+        "body": "🤸",
+        "prefix": [
+            ":cartwheeling:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤸‍♂️": {
+        "body": "🤸‍♂️",
+        "prefix": [
+            ":man_cartwheeling:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤸‍♀️": {
+        "body": "🤸‍♀️",
+        "prefix": [
+            ":woman_cartwheeling:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤼": {
+        "body": "🤼",
+        "prefix": [
+            ":wrestling:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤼‍♂️": {
+        "body": "🤼‍♂️",
+        "prefix": [
+            ":men_wrestling:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤼‍♀️": {
+        "body": "🤼‍♀️",
+        "prefix": [
+            ":women_wrestling:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤽": {
+        "body": "🤽",
+        "prefix": [
+            ":water_polo:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤽‍♂️": {
+        "body": "🤽‍♂️",
+        "prefix": [
+            ":man_playing_water_polo:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤽‍♀️": {
+        "body": "🤽‍♀️",
+        "prefix": [
+            ":woman_playing_water_polo:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤾": {
+        "body": "🤾",
+        "prefix": [
+            ":handball_person:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤾‍♂️": {
+        "body": "🤾‍♂️",
+        "prefix": [
+            ":man_playing_handball:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤾‍♀️": {
+        "body": "🤾‍♀️",
+        "prefix": [
+            ":woman_playing_handball:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤹": {
+        "body": "🤹",
+        "prefix": [
+            ":juggling_person:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤹‍♂️": {
+        "body": "🤹‍♂️",
+        "prefix": [
+            ":man_juggling:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🤹‍♀️": {
+        "body": "🤹‍♀️",
+        "prefix": [
+            ":woman_juggling:",
+        ],
+        "description": "People & Body - Person Sport Category"
+    },
+    "🧘": {
+        "body": "🧘",
+        "prefix": [
+            ":lotus_position:",
+        ],
+        "description": "People & Body - Person Resting"
+    },
+    "🧘‍♂️": {
+        "body": "🧘‍♂️",
+        "prefix": [
+            ":lotus_position_man:",
+        ],
+        "description": "People & Body - Person Resting"
+    },
+    "🧘‍♀️": {
+        "body": "🧘‍♀️",
+        "prefix": [
+            ":lotus_position_woman:",
+        ],
+        "description": "People & Body - Person Resting"
+    },
+    "🛀": {
+        "body": "🛀",
+        "prefix": [
+            ":bath:",
+        ],
+        "description": "People & Body - Person Resting"
+    },
+    "🛌": {
+        "body": "🛌",
+        "prefix": [
+            ":sleeping_bed:",
+        ],
+        "description": "People & Body - Person Resting"
+    },
+    "🧑‍🤝‍🧑": {
+        "body": "🧑‍🤝‍🧑",
+        "prefix": [
+            ":people_holding_hands:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👭": {
+        "body": "👭",
+        "prefix": [
+            ":two_women_holding_hands:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👫": {
+        "body": "👫",
+        "prefix": [
+            ":couple:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👬": {
+        "body": "👬",
+        "prefix": [
+            ":two_men_holding_hands:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "💏": {
+        "body": "💏",
+        "prefix": [
+            ":couplekiss:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍❤️‍💋‍👨": {
+        "body": "👩‍❤️‍💋‍👨",
+        "prefix": [
+            ":couplekiss_man_woman:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍❤️‍💋‍👨": {
+        "body": "👨‍❤️‍💋‍👨",
+        "prefix": [
+            ":couplekiss_man_man:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍❤️‍💋‍👩": {
+        "body": "👩‍❤️‍💋‍👩",
+        "prefix": [
+            ":couplekiss_woman_woman:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "💑": {
+        "body": "💑",
+        "prefix": [
+            ":couple_with_heart:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍❤️‍👨": {
+        "body": "👩‍❤️‍👨",
+        "prefix": [
+            ":couple_with_heart_woman_man:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍❤️‍👨": {
+        "body": "👨‍❤️‍👨",
+        "prefix": [
+            ":couple_with_heart_man_man:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍❤️‍👩": {
+        "body": "👩‍❤️‍👩",
+        "prefix": [
+            ":couple_with_heart_woman_woman:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👪": {
+        "body": "👪",
+        "prefix": [
+            ":family:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👩‍👦": {
+        "body": "👨‍👩‍👦",
+        "prefix": [
+            ":family_man_woman_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👩‍👧": {
+        "body": "👨‍👩‍👧",
+        "prefix": [
+            ":family_man_woman_girl:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👩‍👧‍👦": {
+        "body": "👨‍👩‍👧‍👦",
+        "prefix": [
+            ":family_man_woman_girl_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👩‍👦‍👦": {
+        "body": "👨‍👩‍👦‍👦",
+        "prefix": [
+            ":family_man_woman_boy_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👩‍👧‍👧": {
+        "body": "👨‍👩‍👧‍👧",
+        "prefix": [
+            ":family_man_woman_girl_girl:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👨‍👦": {
+        "body": "👨‍👨‍👦",
+        "prefix": [
+            ":family_man_man_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👨‍👧": {
+        "body": "👨‍👨‍👧",
+        "prefix": [
+            ":family_man_man_girl:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👨‍👧‍👦": {
+        "body": "👨‍👨‍👧‍👦",
+        "prefix": [
+            ":family_man_man_girl_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👨‍👦‍👦": {
+        "body": "👨‍👨‍👦‍👦",
+        "prefix": [
+            ":family_man_man_boy_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👨‍👧‍👧": {
+        "body": "👨‍👨‍👧‍👧",
+        "prefix": [
+            ":family_man_man_girl_girl:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍👩‍👦": {
+        "body": "👩‍👩‍👦",
+        "prefix": [
+            ":family_woman_woman_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍👩‍👧": {
+        "body": "👩‍👩‍👧",
+        "prefix": [
+            ":family_woman_woman_girl:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍👩‍👧‍👦": {
+        "body": "👩‍👩‍👧‍👦",
+        "prefix": [
+            ":family_woman_woman_girl_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍👩‍👦‍👦": {
+        "body": "👩‍👩‍👦‍👦",
+        "prefix": [
+            ":family_woman_woman_boy_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍👩‍👧‍👧": {
+        "body": "👩‍👩‍👧‍👧",
+        "prefix": [
+            ":family_woman_woman_girl_girl:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👦": {
+        "body": "👨‍👦",
+        "prefix": [
+            ":family_man_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👦‍👦": {
+        "body": "👨‍👦‍👦",
+        "prefix": [
+            ":family_man_boy_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👧": {
+        "body": "👨‍👧",
+        "prefix": [
+            ":family_man_girl:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👧‍👦": {
+        "body": "👨‍👧‍👦",
+        "prefix": [
+            ":family_man_girl_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👨‍👧‍👧": {
+        "body": "👨‍👧‍👧",
+        "prefix": [
+            ":family_man_girl_girl:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍👦": {
+        "body": "👩‍👦",
+        "prefix": [
+            ":family_woman_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍👦‍👦": {
+        "body": "👩‍👦‍👦",
+        "prefix": [
+            ":family_woman_boy_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍👧": {
+        "body": "👩‍👧",
+        "prefix": [
+            ":family_woman_girl:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍👧‍👦": {
+        "body": "👩‍👧‍👦",
+        "prefix": [
+            ":family_woman_girl_boy:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "👩‍👧‍👧": {
+        "body": "👩‍👧‍👧",
+        "prefix": [
+            ":family_woman_girl_girl:",
+        ],
+        "description": "People & Body - Family"
+    },
+    "🗣️": {
+        "body": "🗣️",
+        "prefix": [
+            ":speaking_head:",
+        ],
+        "description": "People & Body - Person Symbol"
+    },
+    "👤": {
+        "body": "👤",
+        "prefix": [
+            ":bust_in_silhouette:",
+        ],
+        "description": "People & Body - Person Symbol"
+    },
+    "👥": {
+        "body": "👥",
+        "prefix": [
+            ":busts_in_silhouette:",
+        ],
+        "description": "People & Body - Person Symbol"
+    },
+    "🫂": {
+        "body": "🫂",
+        "prefix": [
+            ":people_hugging:",
+        ],
+        "description": "People & Body - Person Symbol"
+    },
+    "👣": {
+        "body": "👣",
+        "prefix": [
+            ":footprints:",
+        ],
+        "description": "People & Body - Person Symbol"
+    },
+}

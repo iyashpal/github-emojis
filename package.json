@@ -2,7 +2,7 @@
     "name": "github-emojis",
     "displayName": "Github Emojis",
     "description": "Github emojies snippets for all files.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "iyashpal",
     "bugs": {
         "url": "https://github.com/iyashpal/vscode.github-emojis/issues",
@@ -22,7 +22,19 @@
         "snippets": [
             {
                 "language": "",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/smileys-nemotion.code-snippets"
+            },
+            {
+                "language": "",
+                "path": "./snippets/animals-n-nature.code-snippets"
+            },
+            {
+                "language": "",
+                "path": "./snippets/people-n-body.code-snippets"
+            },
+            {
+                "language": "",
+                "path": "./snippets/food-n-drink.code-snippets"
             }
         ]
     }
