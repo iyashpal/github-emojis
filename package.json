@@ -22,7 +22,7 @@
         "snippets": [
             {
                 "language": "",
-                "path": "./snippets/smileys-nemotion.code-snippets"
+                "path": "./snippets/activities.code-snippets"
             },
             {
                 "language": "",
@@ -30,11 +30,35 @@
             },
             {
                 "language": "",
-                "path": "./snippets/people-n-body.code-snippets"
+                "path": "./snippets/flags.code-snippets"
             },
             {
                 "language": "",
                 "path": "./snippets/food-n-drink.code-snippets"
+            },
+            {
+                "language": "",
+                "path": "./snippets/people-n-body.code-snippets"
+            },
+            {
+                "language": "",
+                "path": "./snippets/objects.code-snippets"
+            },
+            {
+                "language": "",
+                "path": "./snippets/other.code-snippets"
+            },
+            {
+                "language": "",
+                "path": "./snippets/smileys-nemotion.code-snippets"
+            },
+            {
+                "language": "",
+                "path": "./snippets/symbols.code-snippets"
+            },
+            {
+                "language": "",
+                "path": "./snippets/travel-n-places.code-snippets"
             }
         ]
     }
