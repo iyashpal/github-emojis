@@ -239,4 +239,670 @@
         ],
         "description": "Food & Drink - Food Vegetable"
     },
+    "🍞": {
+        "body": "🍞",
+        "prefix": [
+            ":bread:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥐": {
+        "body": "🥐",
+        "prefix": [
+            ":croissant:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥖": {
+        "body": "🥖",
+        "prefix": [
+            ":baguette_bread:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🫓": {
+        "body": "🫓",
+        "prefix": [
+            ":baguette_bread:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥨": {
+        "body": "🥨",
+        "prefix": [
+            ":pretzel:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥯": {
+        "body": "🥯",
+        "prefix": [
+            ":bagel:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥞": {
+        "body": "🥞",
+        "prefix": [
+            ":pancakes:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🧇": {
+        "body": "🧇",
+        "prefix": [
+            ":waffle:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🧀": {
+        "body": "🧀",
+        "prefix": [
+            ":cheese:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🍖": {
+        "body": "🍖",
+        "prefix": [
+            ":meat_on_bone:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🍗": {
+        "body": "🍗",
+        "prefix": [
+            ":poultry_leg:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥩": {
+        "body": "🥩",
+        "prefix": [
+            ":cut_of_meat:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥓": {
+        "body": "🥓",
+        "prefix": [
+            ":bacon:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🍔": {
+        "body": "🍔",
+        "prefix": [
+            ":hamburger:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🍟": {
+        "body": "🍟",
+        "prefix": [
+            ":fries:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🍕": {
+        "body": "🍕",
+        "prefix": [
+            ":pizza:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🌭": {
+        "body": "🌭",
+        "prefix": [
+            ":hotdog:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥪": {
+        "body": "🥪",
+        "prefix": [
+            ":sandwich:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🌮": {
+        "body": "🌮",
+        "prefix": [
+            ":taco:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🌯": {
+        "body": "🌯",
+        "prefix": [
+            ":burrito:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🫔": {
+        "body": "🫔",
+        "prefix": [
+            ":tamale:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥙": {
+        "body": "🥙",
+        "prefix": [
+            ":stuffed_flatbread:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🧆": {
+        "body": "🧆",
+        "prefix": [
+            ":falafel:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥚": {
+        "body": "🥚",
+        "prefix": [
+            ":egg:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🍳": {
+        "body": "🍳",
+        "prefix": [
+            ":fried_egg:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥘": {
+        "body": "🥘",
+        "prefix": [
+            ":shallow_pan_of_food:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🍲": {
+        "body": "🍲",
+        "prefix": [
+            ":stew:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🫕": {
+        "body": "🫕",
+        "prefix": [
+            ":fondue:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥣": {
+        "body": "🥣",
+        "prefix": [
+            ":bowl_with_spoon:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥗": {
+        "body": "🥗",
+        "prefix": [
+            ":green_salad:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🍿": {
+        "body": "🍿",
+        "prefix": [
+            ":popcorn:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🧈": {
+        "body": "🧈",
+        "prefix": [
+            ":butter:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🧂": {
+        "body": "🧂",
+        "prefix": [
+            ":salt:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🥫": {
+        "body": "🥫",
+        "prefix": [
+            ":canned_food:",
+        ],
+        "description": "Food & Drink - Food Prepared"
+    },
+    "🍱": {
+        "body": "🍱",
+        "prefix": [
+            ":bento:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🍘": {
+        "body": "🍘",
+        "prefix": [
+            ":rice_cracker:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🍙": {
+        "body": "🍙",
+        "prefix": [
+            ":rice_ball:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🍚": {
+        "body": "🍚",
+        "prefix": [
+            ":rice:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🍛": {
+        "body": "🍛",
+        "prefix": [
+            ":curry:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🍜": {
+        "body": "🍜",
+        "prefix": [
+            ":ramen:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🍝": {
+        "body": "🍝",
+        "prefix": [
+            ":spaghetti:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🍠": {
+        "body": "🍠",
+        "prefix": [
+            ":sweet_potato:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🍢": {
+        "body": "🍢",
+        "prefix": [
+            ":oden:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🍣": {
+        "body": "🍣",
+        "prefix": [
+            ":sushi:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🍤": {
+        "body": "🍤",
+        "prefix": [
+            ":fried_shrimp:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🍥": {
+        "body": "🍥",
+        "prefix": [
+            ":fish_cake:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🥮": {
+        "body": "🥮",
+        "prefix": [
+            ":moon_cake:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🍡": {
+        "body": "🍡",
+        "prefix": [
+            ":dango:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🥟": {
+        "body": "🥟",
+        "prefix": [
+            ":dumpling:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🥠": {
+        "body": "🥠",
+        "prefix": [
+            ":fortune_cookie:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🥡": {
+        "body": "🥡",
+        "prefix": [
+            ":takeout_box:",
+        ],
+        "description": "Food & Drink - Food Asian"
+    },
+    "🦀": {
+        "body": "🦀",
+        "prefix": [
+            ":crab:",
+        ],
+        "description": "Food & Drink - Food Marine"
+    },
+    "🦞": {
+        "body": "🦞",
+        "prefix": [
+            ":lobster:",
+        ],
+        "description": "Food & Drink - Food Marine"
+    },
+    "🦐": {
+        "body": "🦐",
+        "prefix": [
+            ":shrimp:",
+        ],
+        "description": "Food & Drink - Food Marine"
+    },
+    "🦑": {
+        "body": "🦑",
+        "prefix": [
+            ":squid:",
+        ],
+        "description": "Food & Drink - Food Marine"
+    },
+    "🦪": {
+        "body": "🦪",
+        "prefix": [
+            ":oyster:",
+        ],
+        "description": "Food & Drink - Food Marine"
+    },
+    "🍦": {
+        "body": "🍦",
+        "prefix": [
+            ":icecream:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🍧": {
+        "body": "🍧",
+        "prefix": [
+            ":shaved_ice:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🍨": {
+        "body": "🍨",
+        "prefix": [
+            ":ice_cream:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🍩": {
+        "body": "🍩",
+        "prefix": [
+            ":doughnut:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🍪": {
+        "body": "🍪",
+        "prefix": [
+            ":cookie:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🎂": {
+        "body": "🎂",
+        "prefix": [
+            ":birthday:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🍰": {
+        "body": "🍰",
+        "prefix": [
+            ":cake:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🧁": {
+        "body": "🧁",
+        "prefix": [
+            ":cupcake:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🥧": {
+        "body": "🥧",
+        "prefix": [
+            ":pie:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🍫": {
+        "body": "🍫",
+        "prefix": [
+            ":chocolate_bar:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🍬": {
+        "body": "🍬",
+        "prefix": [
+            ":candy:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🍭": {
+        "body": "🍭",
+        "prefix": [
+            ":lollipop:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🍮": {
+        "body": "🍮",
+        "prefix": [
+            ":custard:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🍯": {
+        "body": "🍯",
+        "prefix": [
+            ":honey_pot:",
+        ],
+        "description": "Food & Drink - Food Sweet"
+    },
+    "🍼": {
+        "body": "🍼",
+        "prefix": [
+            ":baby_bottle:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🥛": {
+        "body": "🥛",
+        "prefix": [
+            ":milk_glass:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "☕": {
+        "body": "☕",
+        "prefix": [
+            ":coffee:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🫖": {
+        "body": "🫖",
+        "prefix": [
+            ":teapot:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🍵": {
+        "body": "🍵",
+        "prefix": [
+            ":tea:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🍶": {
+        "body": "🍶",
+        "prefix": [
+            ":sake:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🍾": {
+        "body": "🍾",
+        "prefix": [
+            ":champagne:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🍷": {
+        "body": "🍷",
+        "prefix": [
+            ":wine_glass:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🍸": {
+        "body": "🍸",
+        "prefix": [
+            ":cocktail:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🍹": {
+        "body": "🍹",
+        "prefix": [
+            ":tropical_drink:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🍺": {
+        "body": "🍺",
+        "prefix": [
+            ":beer:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🍻": {
+        "body": "🍻",
+        "prefix": [
+            ":beers:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🥂": {
+        "body": "🥂",
+        "prefix": [
+            ":clinking_glasses:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🥃": {
+        "body": "🥃",
+        "prefix": [
+            ":tumbler_glass:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🥤": {
+        "body": "🥤",
+        "prefix": [
+            ":cup_with_straw:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🧋": {
+        "body": "🧋",
+        "prefix": [
+            ":bubble_tea:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🧃": {
+        "body": "🧃",
+        "prefix": [
+            ":beverage_box:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🧉": {
+        "body": "🧉",
+        "prefix": [
+            ":mate:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🧊": {
+        "body": "🧊",
+        "prefix": [
+            ":ice_cube:",
+        ],
+        "description": "Food & Drink - Drink"
+    },
+    "🥢": {
+        "body": "🥢",
+        "prefix": [
+            ":chopsticks:",
+        ],
+        "description": "Food & Drink - Dishware"
+    },
+    "🍽️": {
+        "body": "🍽️",
+        "prefix": [
+            ":plate_with_cutlery:",
+        ],
+        "description": "Food & Drink - Dishware"
+    },
+    "🍴": {
+        "body": "🍴",
+        "prefix": [
+            ":fork_and_knife:",
+        ],
+        "description": "Food & Drink - Dishware"
+    },
+    "🥄": {
+        "body": "🥄",
+        "prefix": [
+            ":spoon:",
+        ],
+        "description": "Food & Drink - Dishware"
+    },
+    "🔪": {
+        "body": "🔪",
+        "prefix": [
+            ":hocho:",
+            ":knife:",
+        ],
+        "description": "Food & Drink - Dishware"
+    },
+    "🏺": {
+        "body": "🏺",
+        "prefix": [
+            ":amphora:",
+        ],
+        "description": "Food & Drink - Dishware"
+    },
 }
