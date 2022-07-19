@@ -1,3 +1,800 @@
 {
-    
+    "🌍": {
+        "body": "🌍",
+        "prefix": [
+            ":earth_africa:",
+        ],
+        "description": "Travel & Places - Place Map"
+    },
+    "🌎": {
+        "body": "🌎",
+        "prefix": [
+            ":earth_americas:",
+        ],
+        "description": "Travel & Places - Place Map"
+    },
+    "🌏": {
+        "body": "🌏",
+        "prefix": [
+            ":earth_asia:",
+        ],
+        "description": "Travel & Places - Place Map"
+    },
+    "🌐": {
+        "body": "🌐",
+        "prefix": [
+            ":globe_with_meridians:",
+        ],
+        "description": "Travel & Places - Place Map"
+    },
+    "🗺️": {
+        "body": "🗺️",
+        "prefix": [
+            ":world_map:",
+        ],
+        "description": "Travel & Places - Place Map"
+    },
+    "🗾": {
+        "body": "🗾",
+        "prefix": [
+            ":japan:",
+        ],
+        "description": "Travel & Places - Place Map"
+    },
+    "🧭": {
+        "body": "🧭",
+        "prefix": [
+            ":compass:",
+        ],
+        "description": "Travel & Places - Place Map"
+    },
+    "🏔️": {
+        "body": "🏔️",
+        "prefix": [
+            ":mountain_snow:",
+        ],
+        "description": "Travel & Places - Place Geographic"
+    },
+    "⛰️": {
+        "body": "⛰️",
+        "prefix": [
+            ":mountain:",
+        ],
+        "description": "Travel & Places - Place Geographic"
+    },
+    "🌋": {
+        "body": "🌋",
+        "prefix": [
+            ":volcano:",
+        ],
+        "description": "Travel & Places - Place Geographic"
+    },
+    "🗻": {
+        "body": "🗻",
+        "prefix": [
+            ":mount_fuji:",
+        ],
+        "description": "Travel & Places - Place Geographic"
+    },
+    "🏕️": {
+        "body": "🏕️",
+        "prefix": [
+            ":camping:",
+        ],
+        "description": "Travel & Places - Place Geographic"
+    },
+    "🏖️": {
+        "body": "🏖️",
+        "prefix": [
+            ":beach_umbrella:",
+        ],
+        "description": "Travel & Places - Place Geographic"
+    },
+    "🏜️": {
+        "body": "🏜️",
+        "prefix": [
+            ":desert:",
+        ],
+        "description": "Travel & Places - Place Geographic"
+    },
+    "🏝️": {
+        "body": "🏝️",
+        "prefix": [
+            ":desert_island:",
+        ],
+        "description": "Travel & Places - Place Geographic"
+    },
+    "🏞️": {
+        "body": "🏞️",
+        "prefix": [
+            ":national_park:",
+        ],
+        "description": "Travel & Places - Place Geographic"
+    },
+    "🏟️": {
+        "body": "🏟️",
+        "prefix": [
+            ":stadium:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏛️": {
+        "body": "🏛️",
+        "prefix": [
+            ":classical_building:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏗️": {
+        "body": "🏗️",
+        "prefix": [
+            ":building_construction:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🧱": {
+        "body": "🧱",
+        "prefix": [
+            ":bricks:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🪨": {
+        "body": "🪨",
+        "prefix": [
+            ":rock:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🪵": {
+        "body": "🪵",
+        "prefix": [
+            ":wood:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🛖": {
+        "body": "🛖",
+        "prefix": [
+            ":hut:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏘️": {
+        "body": "🏘️",
+        "prefix": [
+            ":houses:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏚️": {
+        "body": "🏚️",
+        "prefix": [
+            ":derelict_house:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏠": {
+        "body": "🏠",
+        "prefix": [
+            ":house:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏡": {
+        "body": "🏡",
+        "prefix": [
+            ":house_with_garden:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏢": {
+        "body": "🏢",
+        "prefix": [
+            ":office:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏣": {
+        "body": "🏣",
+        "prefix": [
+            ":post_office:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏤": {
+        "body": "🏤",
+        "prefix": [
+            ":european_post_office:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏥": {
+        "body": "🏥",
+        "prefix": [
+            ":hospital:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏦": {
+        "body": "🏦",
+        "prefix": [
+            ":bank:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏨": {
+        "body": "🏨",
+        "prefix": [
+            ":hotel:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏩": {
+        "body": "🏩",
+        "prefix": [
+            ":love_hotel:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏪": {
+        "body": "🏪",
+        "prefix": [
+            ":convenience_store:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏫": {
+        "body": "🏫",
+        "prefix": [
+            ":school:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏬": {
+        "body": "🏬",
+        "prefix": [
+            ":department_store:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏭": {
+        "body": "🏭",
+        "prefix": [
+            ":factory:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏯": {
+        "body": "🏯",
+        "prefix": [
+            ":japanese_castle:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🏰": {
+        "body": "🏰",
+        "prefix": [
+            ":european_castle:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "💒": {
+        "body": "💒",
+        "prefix": [
+            ":wedding:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🗼": {
+        "body": "🗼",
+        "prefix": [
+            ":tokyo_tower:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "🗽": {
+        "body": "🗽",
+        "prefix": [
+            ":statue_of_liberty:",
+        ],
+        "description": "Travel & Places - Place Building"
+    },
+    "⛪": {
+        "body": "⛪",
+        "prefix": [
+            ":church:",
+        ],
+        "description": "Travel & Places - Place Religious"
+    },
+    "🕌": {
+        "body": "🕌",
+        "prefix": [
+            ":mosque:",
+        ],
+        "description": "Travel & Places - Place Religious"
+    },
+    "🛕": {
+        "body": "🛕",
+        "prefix": [
+            ":hindu_temple:",
+        ],
+        "description": "Travel & Places - Place Religious"
+    },
+    "🕍": {
+        "body": "🕍",
+        "prefix": [
+            ":synagogue:",
+        ],
+        "description": "Travel & Places - Place Religious"
+    },
+    "⛩️": {
+        "body": "⛩️",
+        "prefix": [
+            ":shinto_shrine:",
+        ],
+        "description": "Travel & Places - Place Religious"
+    },
+    "🕋": {
+        "body": "🕋",
+        "prefix": [
+            ":kaaba:",
+        ],
+        "description": "Travel & Places - Place Religious"
+    },
+    "⛲": {
+        "body": "⛲",
+        "prefix": [
+            ":fountain:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "⛺": {
+        "body": "⛺",
+        "prefix": [
+            ":tent:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "🌁": {
+        "body": "🌁",
+        "prefix": [
+            ":foggy:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "🌃": {
+        "body": "🌃",
+        "prefix": [
+            ":night_with_stars:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "🏙️": {
+        "body": "🏙️",
+        "prefix": [
+            ":cityscape:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "🌄": {
+        "body": "🌄",
+        "prefix": [
+            ":sunrise_over_mountains:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "🌅": {
+        "body": "🌅",
+        "prefix": [
+            ":sunrise:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "🌆": {
+        "body": "🌆",
+        "prefix": [
+            ":city_sunset:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "🌇": {
+        "body": "🌇",
+        "prefix": [
+            ":city_sunrise:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "🌉": {
+        "body": "🌉",
+        "prefix": [
+            ":bridge_at_night:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "♨️": {
+        "body": "♨️",
+        "prefix": [
+            ":hotsprings:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "🎠": {
+        "body": "🎠",
+        "prefix": [
+            ":carousel_horse:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "🎡": {
+        "body": "🎡",
+        "prefix": [
+            ":ferris_wheel:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "🎢": {
+        "body": "🎢",
+        "prefix": [
+            ":roller_coaster:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "💈": {
+        "body": "💈",
+        "prefix": [
+            ":barber:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "🎪": {
+        "body": "🎪",
+        "prefix": [
+            ":circus_tent:",
+        ],
+        "description": "Travel & Places - Place Other"
+    },
+    "🚂": {
+        "body": "🚂",
+        "prefix": [
+            ":steam_locomotive:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚃": {
+        "body": "🚃",
+        "prefix": [
+            ":railway_car:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚄": {
+        "body": "🚄",
+        "prefix": [
+            ":bullettrain_side:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚅": {
+        "body": "🚅",
+        "prefix": [
+            ":bullettrain_front:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚆": {
+        "body": "🚆",
+        "prefix": [
+            ":train2:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚇": {
+        "body": "🚇",
+        "prefix": [
+            ":metro:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚈": {
+        "body": "🚈",
+        "prefix": [
+            ":light_rail:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚉": {
+        "body": "🚉",
+        "prefix": [
+            ":station:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚊": {
+        "body": "🚊",
+        "prefix": [
+            ":tram:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚝": {
+        "body": "🚝",
+        "prefix": [
+            ":monorail:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚞": {
+        "body": "🚞",
+        "prefix": [
+            ":mountain_railway:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚋": {
+        "body": "🚋",
+        "prefix": [
+            ":train:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚌": {
+        "body": "🚌",
+        "prefix": [
+            ":bus:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚍": {
+        "body": "🚍",
+        "prefix": [
+            ":oncoming_bus:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚎": {
+        "body": "🚎",
+        "prefix": [
+            ":oncoming_bus:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚐": {
+        "body": "🚐",
+        "prefix": [
+            ":minibus:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚑": {
+        "body": "🚑",
+        "prefix": [
+            ":ambulance:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚒": {
+        "body": "🚒",
+        "prefix": [
+            ":fire_engine:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚓": {
+        "body": "🚓",
+        "prefix": [
+            ":police_car:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚔": {
+        "body": "🚔",
+        "prefix": [
+            ":oncoming_police_car:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚕": {
+        "body": "🚕",
+        "prefix": [
+            ":taxi:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚖": {
+        "body": "🚖",
+        "prefix": [
+            ":oncoming_taxi:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚗": {
+        "body": "🚗",
+        "prefix": [
+            ":car:", ":red_car:"
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚘": {
+        "body": "🚘",
+        "prefix": [
+            ":oncoming_automobile:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚙": {
+        "body": "🚙",
+        "prefix": [
+            ":blue_car:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🛻": {
+        "body": "🛻",
+        "prefix": [
+            ":pickup_truck:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚚": {
+        "body": "🚚",
+        "prefix": [
+            ":truck:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚛": {
+        "body": "🚛",
+        "prefix": [
+            ":articulated_lorry:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚜": {
+        "body": "🚜",
+        "prefix": [
+            ":tractor:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🏎️": {
+        "body": "🏎️",
+        "prefix": [
+            ":racing_car:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🏍️": {
+        "body": "🏍️",
+        "prefix": [
+            ":motorcycle:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🛵": {
+        "body": "🛵",
+        "prefix": [
+            ":motor_scooter:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🦽": {
+        "body": "🦽",
+        "prefix": [
+            ":manual_wheelchair:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🦼": {
+        "body": "🦼",
+        "prefix": [
+            ":motorized_wheelchair:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🛺": {
+        "body": "🛺",
+        "prefix": [
+            ":auto_rickshaw:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚲": {
+        "body": "🚲",
+        "prefix": [
+            ":bike:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🛴": {
+        "body": "🛴",
+        "prefix": [
+            ":kick_scooter:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🛹": {
+        "body": "🛹",
+        "prefix": [
+            ":skateboard:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🛼": {
+        "body": "🛼",
+        "prefix": [
+            ":roller_skate:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚏": {
+        "body": "🚏",
+        "prefix": [
+            ":busstop:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🛣️": {
+        "body": "🛣️",
+        "prefix": [
+            ":motorway:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🛤️": {
+        "body": "🛤️",
+        "prefix": [
+            ":railway_track:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🛢️": {
+        "body": "🛢️",
+        "prefix": [
+            ":oil_drum:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "⛽": {
+        "body": "⛽",
+        "prefix": [
+            ":fuelpump:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚨": {
+        "body": "🚨",
+        "prefix": [
+            ":rotating_light:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚥": {
+        "body": "🚥",
+        "prefix": [
+            ":traffic_light:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚦": {
+        "body": "🚦",
+        "prefix": [
+            ":vertical_traffic_light:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🛑": {
+        "body": "🛑",
+        "prefix": [
+            ":stop_sign:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
+    "🚧": {
+        "body": "🚧",
+        "prefix": [
+            ":construction:",
+        ],
+        "description": "Travel & Places - Transport Ground"
+    },
 }
