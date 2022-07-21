@@ -797,4 +797,713 @@
         ],
         "description": "Travel & Places - Transport Ground"
     },
+    "⚓": {
+        "body": "⚓",
+        "prefix": [
+            ":anchor:",
+        ],
+        "description": "Travel & Places - Transport Water"
+    },
+    "⛵": {
+        "body": "⛵",
+        "prefix": [
+            ":boat:",
+            ":sailboat:",
+        ],
+        "description": "Travel & Places - Transport Water"
+    },
+    "🛶": {
+        "body": "🛶",
+        "prefix": [
+            ":canoe:",
+        ],
+        "description": "Travel & Places - Transport Water"
+    },
+    "🚤": {
+        "body": "🚤",
+        "prefix": [
+            ":speedboat:",
+        ],
+        "description": "Travel & Places - Transport Water"
+    },
+    "🛳️": {
+        "body": "🛳️",
+        "prefix": [
+            ":passenger_ship:",
+        ],
+        "description": "Travel & Places - Transport Water"
+    },
+    "⛴️": {
+        "body": "⛴️",
+        "prefix": [
+            ":ferry:",
+        ],
+        "description": "Travel & Places - Transport Water"
+    },
+    "🛥️": {
+        "body": "🛥️",
+        "prefix": [
+            ":motor_boat:",
+        ],
+        "description": "Travel & Places - Transport Water"
+    },
+    "🚢": {
+        "body": "🚢",
+        "prefix": [
+            ":ship:",
+        ],
+        "description": "Travel & Places - Transport Water"
+    },
+    "✈️": {
+        "body": "✈️",
+        "prefix": [
+            ":airplane:",
+        ],
+        "description": "Travel & Places - Transport Air"
+    },
+    "🛩️": {
+        "body": "🛩️",
+        "prefix": [
+            ":small_airplane:",
+        ],
+        "description": "Travel & Places - Transport Air"
+    },
+    "🛫": {
+        "body": "🛫",
+        "prefix": [
+            ":flight_departure:",
+        ],
+        "description": "Travel & Places - Transport Air"
+    },
+    "🛬": {
+        "body": "🛬",
+        "prefix": [
+            ":flight_arrival:",
+        ],
+        "description": "Travel & Places - Transport Air"
+    },
+    "🪂": {
+        "body": "🪂",
+        "prefix": [
+            ":parachute:",
+        ],
+        "description": "Travel & Places - Transport Air"
+    },
+    "💺": {
+        "body": "💺",
+        "prefix": [
+            ":seat:",
+        ],
+        "description": "Travel & Places - Transport Air"
+    },
+    "🚁": {
+        "body": "🚁",
+        "prefix": [
+            ":helicopter:",
+        ],
+        "description": "Travel & Places - Transport Air"
+    },
+    "🚟": {
+        "body": "🚟",
+        "prefix": [
+            ":suspension_railway:",
+        ],
+        "description": "Travel & Places - Transport Air"
+    },
+    "🚠": {
+        "body": "🚠",
+        "prefix": [
+            ":mountain_cableway:",
+        ],
+        "description": "Travel & Places - Transport Air"
+    },
+    "🚡": {
+        "body": "🚡",
+        "prefix": [
+            ":aerial_tramway:",
+        ],
+        "description": "Travel & Places - Transport Air"
+    },
+    "🛰️": {
+        "body": "🛰️",
+        "prefix": [
+            ":artificial_satellite:",
+        ],
+        "description": "Travel & Places - Transport Air"
+    },
+    "🚀": {
+        "body": "🚀",
+        "prefix": [
+            ":rocket:",
+        ],
+        "description": "Travel & Places - Transport Air"
+    },
+    "🛸": {
+        "body": "🛸",
+        "prefix": [
+            ":flying_saucer:",
+        ],
+        "description": "Travel & Places - Transport Air"
+    },
+    "🛎️": {
+        "body": "🛎️",
+        "prefix": [
+            ":bellhop_bell:",
+        ],
+        "description": "Travel & Places - Hotel"
+    },
+    "🧳": {
+        "body": "🧳",
+        "prefix": [
+            ":luggage:",
+        ],
+        "description": "Travel & Places - Hotel"
+    },
+    "⌛": {
+        "body": "⌛",
+        "prefix": [
+            ":hourglass:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "⏳": {
+        "body": "⏳",
+        "prefix": [
+            ":hourglass_flowing_sand:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "⌚": {
+        "body": "⌚",
+        "prefix": [
+            ":watch:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "⏰": {
+        "body": "⏰",
+        "prefix": [
+            ":alarm_clock:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "⏱️": {
+        "body": "⏱️",
+        "prefix": [
+            ":stopwatch:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "⏲️": {
+        "body": "⏲️",
+        "prefix": [
+            ":timer_clock:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕰️": {
+        "body": "🕰️",
+        "prefix": [
+            ":mantelpiece_clock:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕛": {
+        "body": "🕛",
+        "prefix": [
+            ":clock12:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕧": {
+        "body": "🕧",
+        "prefix": [
+            ":clock1230:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕐": {
+        "body": "🕐",
+        "prefix": [
+            ":clock1:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕜": {
+        "body": "🕜",
+        "prefix": [
+            ":clock130:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕑": {
+        "body": "🕑",
+        "prefix": [
+            ":clock2:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕝": {
+        "body": "🕝",
+        "prefix": [
+            ":clock230:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕒": {
+        "body": "🕒",
+        "prefix": [
+            ":clock3:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕞": {
+        "body": "🕞",
+        "prefix": [
+            ":clock330:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕓": {
+        "body": "🕓",
+        "prefix": [
+            ":clock4:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕟": {
+        "body": "🕟",
+        "prefix": [
+            ":clock430:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕔": {
+        "body": "🕔",
+        "prefix": [
+            ":clock5:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕠": {
+        "body": "🕠",
+        "prefix": [
+            ":clock530:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕕": {
+        "body": "🕕",
+        "prefix": [
+            ":clock6:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕡": {
+        "body": "🕡",
+        "prefix": [
+            ":clock630:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕖": {
+        "body": "🕖",
+        "prefix": [
+            ":clock7:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕢": {
+        "body": "🕢",
+        "prefix": [
+            ":clock730:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕗": {
+        "body": "🕗",
+        "prefix": [
+            ":clock8:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕣": {
+        "body": "🕣",
+        "prefix": [
+            ":clock830:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕘": {
+        "body": "🕘",
+        "prefix": [
+            ":clock9:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕤": {
+        "body": "🕤",
+        "prefix": [
+            ":clock930:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕙": {
+        "body": "🕙",
+        "prefix": [
+            ":clock10:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕥": {
+        "body": "🕥",
+        "prefix": [
+            ":clock1030:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕚": {
+        "body": "🕚",
+        "prefix": [
+            ":clock11:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🕦": {
+        "body": "🕦",
+        "prefix": [
+            ":clock1130:",
+        ],
+        "description": "Travel & Places - Time"
+    },
+    "🌑": {
+        "body": "🌑",
+        "prefix": [
+            ":new_moon:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌒": {
+        "body": "🌒",
+        "prefix": [
+            ":waxing_crescent_moon:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌓": {
+        "body": "🌓",
+        "prefix": [
+            ":first_quarter_moon:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌔": {
+        "body": "🌔",
+        "prefix": [
+            ":moon:",
+            ":waxing_gibbous_moon:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌕": {
+        "body": "🌕",
+        "prefix": [
+            ":full_moon:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌖": {
+        "body": "🌖",
+        "prefix": [
+            ":waning_gibbous_moon:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌗": {
+        "body": "🌗",
+        "prefix": [
+            ":last_quarter_moon:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌘": {
+        "body": "🌘",
+        "prefix": [
+            ":waning_crescent_moon:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌙": {
+        "body": "🌙",
+        "prefix": [
+            ":crescent_moon:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌚": {
+        "body": "🌚",
+        "prefix": [
+            ":new_moon_with_face:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌛": {
+        "body": "🌛",
+        "prefix": [
+            ":first_quarter_moon_with_face:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌜": {
+        "body": "🌜",
+        "prefix": [
+            ":last_quarter_moon_with_face:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌡️": {
+        "body": "🌡️",
+        "prefix": [
+            ":thermometer:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "☀️": {
+        "body": "☀️",
+        "prefix": [
+            ":sunny:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌝": {
+        "body": "🌝",
+        "prefix": [
+            ":full_moon_with_face:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌞": {
+        "body": "🌞",
+        "prefix": [
+            ":sun_with_face:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🪐": {
+        "body": "🪐",
+        "prefix": [
+            ":ringed_planet:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "⭐": {
+        "body": "⭐",
+        "prefix": [
+            ":star:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌟": {
+        "body": "🌟",
+        "prefix": [
+            ":star2:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌠": {
+        "body": "🌠",
+        "prefix": [
+            ":stars:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌌": {
+        "body": "🌌",
+        "prefix": [
+            ":milky_way:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "☁️": {
+        "body": "☁️",
+        "prefix": [
+            ":cloud:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "⛅": {
+        "body": "⛅",
+        "prefix": [
+            ":partly_sunny:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "⛈️": {
+        "body": "⛈️",
+        "prefix": [
+            ":cloud_with_lightning_and_rain:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌤️": {
+        "body": "🌤️",
+        "prefix": [
+            ":sun_behind_small_cloud:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌥️": {
+        "body": "🌥️",
+        "prefix": [
+            ":sun_behind_large_cloud:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌦️": {
+        "body": "🌦️",
+        "prefix": [
+            ":sun_behind_rain_cloud:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌧️": {
+        "body": "🌧️",
+        "prefix": [
+            ":cloud_with_rain:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌨️": {
+        "body": "🌨️",
+        "prefix": [
+            ":cloud_with_snow:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌩️": {
+        "body": "🌩️",
+        "prefix": [
+            ":cloud_with_lightning:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌪️": {
+        "body": "🌪️",
+        "prefix": [
+            ":tornado:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌫️": {
+        "body": "🌫️",
+        "prefix": [
+            ":fog:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌬️": {
+        "body": "🌬️",
+        "prefix": [
+            ":wind_face:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌀": {
+        "body": "🌀",
+        "prefix": [
+            ":cyclone:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌈": {
+        "body": "🌈",
+        "prefix": [
+            ":rainbow:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌂": {
+        "body": "🌂",
+        "prefix": [
+            ":closed_umbrella:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "☂️": {
+        "body": "☂️",
+        "prefix": [
+            ":open_umbrella:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "☔": {
+        "body": "☔",
+        "prefix": [
+            ":umbrella:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "⛱️": {
+        "body": "⛱️",
+        "prefix": [
+            ":parasol_on_ground:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "⚡": {
+        "body": "⚡",
+        "prefix": [
+            ":zap:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "❄️": {
+        "body": "❄️",
+        "prefix": [
+            ":snowflake:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "☃️": {
+        "body": "☃️",
+        "prefix": [
+            ":snowman_with_snow:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "⛄": {
+        "body": "⛄",
+        "prefix": [
+            ":snowman:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "☄️": {
+        "body": "☄️",
+        "prefix": [
+            ":comet:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🔥": {
+        "body": "🔥",
+        "prefix": [
+            ":fire:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "💧": {
+        "body": "💧",
+        "prefix": [
+            ":droplet:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
+    "🌊": {
+        "body": "🌊",
+        "prefix": [
+            ":ocean:",
+        ],
+        "description": "Travel & Places - Sky & Weather"
+    },
 }

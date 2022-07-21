@@ -2,7 +2,7 @@
     "name": "github-emojis",
     "displayName": "Github Emojis",
     "description": "Github emojies snippets for all files.",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "iyashpal",
     "bugs": {
         "url": "https://github.com/iyashpal/vscode.github-emojis/issues",
